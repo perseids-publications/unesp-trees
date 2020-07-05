@@ -5,7 +5,7 @@
     "version": "3.1.0"
   },
   "private": true,
-  "homepage": "https://perseids-publications.github.io/treebank-template/",
+  "homepage": "https://aniseferreira.github.io/treebank-template/",
   "dependencies": {
     "@primer/octicons-react": "^9.6.0",
     "alpheios-messaging": "https://github.com/alpheios-project/alpheios-messaging",
