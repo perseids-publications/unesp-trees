@@ -1,11 +1,11 @@
 {
-  "title": "Treebank Publication Template",
-  "subtitle": "Template for publishing collections of treebanks. See the [repository](https://github.com/perseids-publications/treebank-template/) for more information and documentation. If you would like to create a template with your own treebanks, send us a [message](https://docs.google.com/forms/d/e/1FAIpQLSf8yf6B3xlV31x0JKquRuIdXd6LVuX0V7I7id7ZLXbMwDo-UA/viewform).",
-  "doi": "https://dx.doi.org/10.5281/zenodo.3898734",
+  "title": "Treebanks dos Projetos Abertos em Letras Clássicas Digitais",
+  "subtitle": "Following the Template for publishing collections of treebanks from Perseids Project",
+  "doi": "",
   "copyright": "The Perseids Project",
-  "report": "https://github.com/perseids-publications/treebank-template/issues",
-  "github": "https://github.com/perseids-publications/treebank-template/",
-  "twitter": "https://twitter.com/PerseidsProject",
+  "report": "https://github.com/aniseferreira/treebank-template/issues",
+  "github": "https://github.com/aniseferreira/treebank-template/",
+  "twitter": "",
   "collections": [
     {
       "title": "Information",
