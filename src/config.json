@@ -21,10 +21,13 @@
           "work": "Oneirocritica, livro V",
           "editors": "Anise Ferreira",
           "sections": [
-            { "locus": "5.55",
+            { 
+              "locus": "5.55",
               "path": "artemidorus-5-55",
               "xml": "artemidorus-5-55.xml",
-                            "chunks": { "start": 1, "end": 3 }
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 3 }
             }
           ]
         },
