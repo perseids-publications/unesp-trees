@@ -24,8 +24,8 @@
       <uri>http://data.perseus.org/sosol/users/anise</uri>
   </annotator>
    <sentence id="1"
-             document_id="Artemidorus Onir."
-             subdoc="5.55-5.55"
+             document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1:5.55"
+             subdoc=""
              span="">
       <word id="1" form="Δρομεὺς" lemma="δρομεύς" postag="n-s---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="11"/>
       <word id="2" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="6"/>
@@ -52,8 +52,8 @@
       <word id="23" insertion_id="0016e" artificial="elliptic" relation="ADV" form="[0]" sg="" head="16"/>
    </sentence>
    <sentence id="2"
-             document_id="Artemidorus Onir."
-             subdoc="5.55-5.55"
+             document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1:5.55"
+             subdoc=""
              span="">
       <word id="1" form="ἐλείφθη" lemma="λείπω" postag="v3saip---" relation="PRED" gloss="" sg="ind stt" head="0"/>
       <word id="2" form="ἐκεῖνον" lemma="ἐκεῖνος" postag="p-s---ma-" relation="ATR" gloss="" sg="" head="4"/>
@@ -66,8 +66,8 @@
       <word id="9" form="·" lemma="" postag="" relation="AuxK" sg="" head="0"/>
    </sentence>
    <sentence id="3"
-             document_id="Artemidorus Oniρ."
-             subdoc="5.55-5.55"
+             document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1:5.55"
+             subdoc=""
              span="">
       <word id="1" form="κατῄσχυνε" lemma="καταισχύνω" postag="v3saia---" relation="PRED" gloss="" sg="ind stt" head="0"/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" gloss="" sg="" head="1"/>
