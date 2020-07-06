@@ -11,26 +11,6 @@
       "title": "Information",
       "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more."
     },
-    
-    {
-      "title": "Collection Test",
-      "publications": [
-        {
-          "path": "artemidorus-5-55-test",
-          "author": "Artemidoro de Daldis",
-          "work": "Onirocritica, livro V",
-          "editors": "Anise Ferreira",
-          "sections": [
-            {
-              "locus": "5.55-5.55",
-              "path": "artemidorus-5-55-test",
-              "xml": "artemidorus-5-55-test.xml",
-              "link": "https://www.example.com",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-              "chunks": { "start": 1, "end": 3 }
-            }
-          ]
-        },
     {
       "title": "Collection 1",
       "publications": [
