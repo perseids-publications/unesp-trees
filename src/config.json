@@ -14,12 +14,27 @@
     {
       "title": "Collection 1",
       "publications": [
+        
+        {
+          "path": "mytrees",
+          "author": "Artemidoro de Daldis",
+          "work": "Onirocritica, livro V",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { "locus": "5.55",
+              "path": "artemidorus-5-55",
+              "xml": "artemidorus-5-55-test.xml",
+                            "chunks": { "start": 1, "end": 3 }
+            }
+          ]
+        },
         {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
           "work": "On the Murder of Eratosthenes",
           "editors": "Vanessa Gorman",
           "sections": [
+            
             {
               "locus": "1-50",
               "path": "on-the-murder-of-eratosthenes-1-50",
