@@ -25,8 +25,8 @@
               "locus": "5.55",
               "path": "artemidorus-5-55",
               "xml": "artemidorus-5-55.xml",
-              "link": "https://www.example.com",
-              "notes": "Δρομεὺς ἐν Ὀλυμπίᾳ παίδων στάδιον ἐστεφανωμένος μέλλων ἕτερον ἀγῶνα ἀγωνίζεσθαι ἔδοξεν ἐν τῷ Ὀλυμπικῷ στεφάνῳ ὥσπερ ἐν λεκάνῃ τοὺς πόδας νίπτεσθαι.",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "",
               "chunks": { "start": 1, "end": 3 }
             }
           ]
