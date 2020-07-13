@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <treebank xmlns:saxon="http://saxon.sf.net/"
           xml:lang="grc"
-          format="aldt"
+          format="smyth3"
           direction="ltr"
           version="1.5">
    <date>2020-05-21 22:28:11 UTC</date>
