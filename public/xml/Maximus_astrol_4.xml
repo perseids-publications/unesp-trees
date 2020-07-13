@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="grc"
+          format="smyth3"
+          direction="ltr"
+          version="1.5">
+   <date>2020-05-21 22:28:11 UTC</date>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>https://services.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>anise</short>
+      <name>Anise Ferreira</name>
+      <address>anise.a@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/anise</uri>
+  </annotator>
+   <sentence id="1" document_id="" subdoc="" span="">
+      <word id="1" form="Περὶ" lemma="περί" postag="r--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="2" form="ὁδοιπορίας" lemma="ὁδοιπορία" postag="n-p---fa-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="1"/>
+      <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="gnt dpd nna" head="9"/>
+      <word id="2" form="Κριῷ" lemma="Κριός" postag="n-s---md-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="dtv dpd lcv plc lct" head="9"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="9"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="sbs nmn dpd" head="7"/>
+      <word id="6" form="ταχέως" lemma="ταχέως" postag="d--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="mnn" head="7"/>
+      <word id="7" form="ὑποστρέψει" lemma="ὑποστρέφω" postag="v3sfia---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="ind stt" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="9" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="7"/>
+   </sentence>
+   <sentence id="3" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="2" form="Ταύρῳ" lemma="Ταῦρος" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="12"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="6" form="ἀβλαβῶς" lemma="ἀβλαβής" postag="a--------" relation="ADV_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="7" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="8" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="9" form="κέρδους" lemma="κέρδος" postag="n-s---ng-" relation="ADV_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="10" form="ὑποστρέψει" lemma="ὑποστρέφω" postag="v3sasa---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="12" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" sg="" head="10"/>
+   </sentence>
+   <sentence id="4" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="2" form="Διδύμοις" lemma="Δίδυμος" postag="n-p---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="14"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="6" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="7" form="πολὺν" lemma="πολύς" postag="a-s---ma-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="χρόνον" lemma="χρόνος" postag="n-s---ma-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="10" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="11" form="ξένῃ" lemma="ξένη" postag="n-s---fd-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="12" form="διατρίψει" lemma="διάτριψις" postag="n-d---fn-" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="14" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="12"/>
+   </sentence>
+   <sentence id="5" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="20"/>
+      <word id="2" form="Καρκίνῳ" lemma="Καρκίνος" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="20"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="20"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="6" form="χρονίσει" lemma="χρονίζω" postag="v3sasa---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="7" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="8" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="ξένῃ" lemma="ξένη" postag="n-s---fd-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="13"/>
+      <word id="12" form="χαίρων" lemma="χαίρω" postag="v-sppamn-" relation="ADV_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="13" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="14" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="15" form="ἐνδόξως" lemma="ἔνδοξος" postag="a--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="16" form="ὑποστρέψει" lemma="ὑποστρέφω" postag="v3sasa---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="17" form="πράξας" lemma="πράσσω" postag="v-sapamn-" relation="ADV_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="18" form="εὐτυχῶς" lemma="εὐτυχής" postag="a--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="17"/>
+      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="20" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" form="οὔσης" sg="" head="13"/>
+   </sentence>
+   <sentence id="6" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="2" form="Λέοντι" lemma="Λέων" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="22"/>
+      <word id="4" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="5" form="μὲν" lemma="μέν" postag="d--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="6" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="7" form="πρώτῃ" lemma="πρῶτος" postag="a-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="9" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="11" form="ἀποδημεῖν" lemma="ἀποδημέω" postag="v--pna---" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="12" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="10"/>
+      <word id="13" form="βλάβαι" lemma="βλάβη" postag="n-p---fn-" relation="SBJ_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="14" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxC" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="15" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="20"/>
+      <word id="16" form="φόβοι" lemma="φόβος" postag="n-p---mn-" relation="SBJ_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="17" form="ἐξ" lemma="ἐκ" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="18" form="ἀνδρῶν" lemma="ἀνδρόω" postag="v-sppamv-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="17"/>
+      <word id="19" form="κακῶν" lemma="κάκη" postag="n-p---fg-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="18"/>
+      <word id="20" form="ὑπαντήσουσιν" lemma="ὑπαντάω" postag="v3pfia---" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="21" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="22" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" sg="" head="10"/>
+   </sentence>
+   <sentence id="7" document_id="" subdoc="" span="">
+      <word id="1" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="3" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="4" form="δευτέρᾳ" lemma="δεύτερος" postag="a-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="1"/>
+      <word id="6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="7" form="μὲν" lemma="μέν" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="νυκτὶ" lemma="νύξ" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="2"/>
+      <word id="11" form="ἀποδημεῖν" lemma="ἀποδημέω" postag="v--pna---" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="12" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="8" document_id="" subdoc="" span="">
+      <word id="1" form="ἔτι" lemma="ἔτι" postag="d--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="3" form="ἡμέρας" lemma="ἡμέρα" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="4" form="οὔσης" lemma="εἰμί" postag="v-sppafg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="5" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="6" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="7" form="[" lemma="punc1" postag="u--------" relation="AuxG" sg="" head="10"/>
+      <word id="8" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="9" form="]" lemma="punc1" postag="u--------" relation="AuxG" sg="" head="10"/>
+      <word id="10" form="πάνυ" lemma="πάνυ" postag="d--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="11" form="βλάπτεται" lemma="βλάπτω" postag="v3spie---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="2"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="9" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="2" form="Παρθένῳ" lemma="Παρθένος" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="16"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="6" form="χρονίσει" lemma="χρονίζω" postag="v3sasa---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="7" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="8" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="ξένῃ" lemma="ξένη" postag="n-s---fd-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="13"/>
+      <word id="12" form="ἀβλαβῶς" lemma="ἀβλαβής" postag="a--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="13" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="14" form="ὑποστρέψει" lemma="ὑποστρέφω" postag="v3sasa---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="15" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="16" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" sg="" head="13"/>
+   </sentence>
+   <sentence id="10" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="2" form="Ζυγῷ" lemma="ζυγόν" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="22"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="6" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="7" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="8" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="δικαίᾳ" lemma="δίκαιος" postag="a-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="προαιρέσει" lemma="προαίρεσις" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="11" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="12"/>
+      <word id="12" form="συμφέρει" lemma="συμφέρω" postag="v3spia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="13" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="15"/>
+      <word id="14" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="20"/>
+      <word id="15" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="16" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="17" form="ἀδίκῳ" lemma="ἄδικος" postag="a-s---md-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="23"/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="20"/>
+      <word id="19" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="20"/>
+      <word id="20" form="συμφέρει" lemma="συμφέρω" postag="v2spie---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="15"/>
+      <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="22" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" sg="" head="15"/>
+      <word id="23" insertion_id="0016e" artificial="elliptic" relation="ADV" lemma="προαίρεσις" postag="n-s---fd-" gloss="" form="προαιρέσει" sg="" head="16"/>
+   </sentence>
+   <sentence id="11" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="2" form="Σκορπίῳ" lemma="σκορπίον" postag="n-s---nd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="11"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="6" form="ὠφεληθήσεται" lemma="ὠφελέω" postag="v3sfip---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="7" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="8" form="Σκορπίῳ" lemma="σκορπίον" postag="n-s---nd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="9" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="10" insertion_id="0007e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="6"/>
+      <word id="11" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="6"/>
+   </sentence>
+   <sentence id="12" document_id="" subdoc="" span="">
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="2"/>
+      <word id="2" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="3" form="ὠφεληθήσεται" lemma="ὠφελέω" postag="v3sfip---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="4" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="5" form="κερδήσει" lemma="κερδαίνω" postag="v3sfia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="6" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="7" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="ξένῃ" lemma="ξένη" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="9" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="13" document_id="" subdoc="" span="">
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="3" form="ἀρξάμενος" lemma="ἄρχω" postag="v-sapmmn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="4" form="ὑποστρέφειν" lemma="ὑποστρέφω" postag="v--pna---" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="5" form="οἴκαδε" lemma="οἴκαδε" postag="d--------" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="3"/>
+      <word id="7" form="ὠφεληθήσεται" lemma="ὠφελέω" postag="v3sfip---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="9" form="ταχέως" lemma="ταχέως" postag="d--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="10" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="11" form="ὁδὸν" lemma="ὁδός2" postag="n-s---fa-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="12" form="ἀνύσει" lemma="ἀνύω" postag="v3sfia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="13" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="18"/>
+      <word id="14" form="λαθραίως" lemma="λαθραίως" postag="d-------_" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="18"/>
+      <word id="15" form="καὶ" lemma="καί" postag="d-------_" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="16" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="18"/>
+      <word id="17" form="σιγῆς" lemma="σιγή" postag="n-s---fg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="18" form="ὑποστρέφων" lemma="ὑποστρέφω" postag="v-sppamn-" relation="ADV_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="19" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="14" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="18"/>
+      <word id="2" form="Τοξότῃ" lemma="τοξότης" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="18"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="18"/>
+      <word id="4" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="ἀποδημήσας" lemma="ἀποδημέω" postag="v-sapamn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="6" form="μακρὰν" lemma="μακράν" postag="d--------" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="7" form="ὁδὸν" lemma="ὁδός1" postag="n-s---ma-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="ἀνύσει" lemma="ἀνύω" postag="v3sfia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="10" form="πολὺν" lemma="πολύς" postag="a-s---ma-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="11" form="χρόνον" lemma="χρόνος" postag="n-s---ma-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="12" form="διατρίψει" lemma="διατρίβω" postag="v3sfia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="13" form="βραδύνων" lemma="βραδύνω" postag="v-sppamn-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="12"/>
+      <word id="14" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="15" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="16" form="ξένῃ" lemma="ξένη" postag="n-s---fd-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="17" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="18" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="9"/>
+   </sentence>
+   <sentence id="15" document_id="" subdoc="" span="">
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="3" form="ἀρξάμενος" lemma="ἄρχω" postag="v-sapmmn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="4" form="ὑποστρέφειν" lemma="ὑποστρέφω" postag="v--pna---" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="5" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="6" form="Τοξότῃ" lemma="τοξότης" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="7"/>
+      <word id="7" form="οὔσης" lemma="εἰμί" postag="v-sppafg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="8" form="χαίρων" lemma="χαίρω" postag="v-sppamn-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="9" form="ταχέως" lemma="ταχέως" postag="d--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="ἥξει" lemma="ἥκω" postag="v3sfia---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="16" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="2" form="Αἰγόκερῳ" lemma="αἰγόκερως" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="8"/>
+      <word id="4" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="5" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="6" form="ἀποδημεῖν" lemma="ἀποδημέω" postag="v--pna---" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="5"/>
+      <word id="7" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="8" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" head="5"/>
+   </sentence>
+   <sentence id="17" document_id="" subdoc="" span="">
+      <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="prt" head=""/>
+      <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="4"/>
+      <word id="4" form="ὁδὸς" lemma="ὁδός1" postag="n-s---mn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="5" form="μακρὰ" lemma="μακρός" postag="a-s---fn-" relation="PNOM_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="6" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="7" form="ἄπρακτος" lemma="ἄπρακτος" postag="a-s---fn-" relation="PNOM_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="8" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="9" form="ὁρμὴ" lemma="ὁρμή" postag="n-s---fn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="γίνεται" lemma="γίγνομαι" postag="v3spie---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="12" form="λυπηρά" lemma="λυπηρός" postag="a-s---fn-" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="14" insertion_id="0004e" artificial="elliptic" relation="PRED_CO" lemma="γίγνομαι" postag="v3spie---" gloss="" form="γίνεται" sg="" head="11"/>
+   </sentence>
+   <sentence id="18" document_id="" subdoc="" span="">
+      <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="3" form="ἀρξάμενος" lemma="ἄρχω" postag="v-sapmmn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="4" form="ὑποστρέφειν" lemma="ὑποστρέφω" postag="v--pna---" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="3"/>
+      <word id="5" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="6" form="οὔσης" lemma="εἰμί" postag="v-sppafg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="7" form="Αἰγόκερῳ" lemma="αἰγόκερως" postag="n-p---mn-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="6"/>
+      <word id="8" form="πραεῖαν" lemma="πρᾶος" postag="a-s---fa-" relation="PNOM_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="10" form="ἀβλαβῆ" lemma="ἀβλαβής" postag="a-p---nn-" relation="PNOM_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="9"/>
+      <word id="11" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="12" form="ὁδὸν" lemma="ὁδός1" postag="n-s---ma-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="13" form="ἕξει" lemma="ἕξις" postag="n-d---fn-" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="2"/>
+      <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="19" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="2" form="Ὑδροχόῳ" lemma="ὑδροχόος" postag="n-s---md-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="22"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="22"/>
+      <word id="4" form="ἐν" lemma="ἐν" postag="r--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head=""/>
+      <word id="5" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="6" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="7" form="πρώτῃ" lemma="πρῶτος" postag="a-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="8"/>
+      <word id="8" form="ἡμέρᾳ" lemma="ἡμέρα" postag="n-s---fd-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="11"/>
+      <word id="9" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="10" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="11" form="ἀποδημεῖν" lemma="ἀποδημέω" postag="v--pna---" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="10"/>
+      <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="14"/>
+      <word id="13" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="23"/>
+      <word id="14" form="δὲ" lemma="δέ" postag="d--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+      <word id="15" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="16"/>
+      <word id="16" form="δευτέρᾳ" lemma="δεύτερος" postag="a-s---fd-" relation="OBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="13"/>
+      <word id="17" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="14"/>
+      <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="17"/>
+      <word id="19" form="ὠφέλιμον" lemma="ὠφέλιμος" postag="a-s---ma-" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="24"/>
+      <word id="20" form="γάρ" lemma="γάρ" postag="c--------" relation="AuxC" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="17"/>
+      <word id="21" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="22" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" form="οὔσης" sg="" head="14"/>
+      <word id="23" insertion_id="0021e" artificial="elliptic" relation="SBJ" lemma="ἀποδημέω" postag="v--pna---" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" form="ἀποδημεῖν" sg="" head="17"/>
+      <word id="24" insertion_id="0020e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v3spia---" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" form="ἐστιν" sg="" head="20"/>
+   </sentence>
+   <sentence id="20" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνης" lemma="Σελήνη" postag="n-s---fg-" relation="SBJ" gloss="" sg="" head="18"/>
+      <word id="2" form="Ἰχθύσιν" lemma="Ἰχθύς" postag="n-p---md-" relation="ADV" gloss="" sg="" head="18"/>
+      <word id="3" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="18"/>
+      <word id="4" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" sg="" gloss="" head="12"/>
+      <word id="5" form="στρατιὰν" lemma="στρατιά" postag="n-s---fa-" relation="OBJ_CO" sg="" gloss="" head="4"/>
+      <word id="6" form="καὶ" lemma="καί" postag="c--------" relation="AuxY" sg="" gloss="" head="12"/>
+      <word id="7" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" sg="" gloss="" head="12"/>
+      <word id="8" form="πόλεμον" lemma="πόλεμος" postag="n-s---ma-" relation="OBJ_CO" sg="" gloss="" head="7"/>
+      <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="AuxY" sg="" gloss="" head="12"/>
+      <word id="10" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" sg="" gloss="" head="12"/>
+      <word id="11" form="κυνηγεσίαν" lemma="κυνηγεσία" postag="n-s---fa-" relation="OBJ_CO" sg="" gloss="" head="10"/>
+      <word id="12" form="καὶ" lemma="καί" postag="c--------" relation="COORD" sg="" gloss="" head="16"/>
+      <word id="13" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" sg="" gloss="" head="12"/>
+      <word id="14" form="ἁλιείαν" lemma="ἁλιεία" postag="n-s---fa-" relation="OBJ_CO" sg="" gloss="" head="13"/>
+      <word id="15" form="δεῖ" lemma="δέω1" postag="v3spia---" relation="PRED" sg="" gloss="" head="0"/>
+      <word id="16" form="ἀποδημεῖν" lemma="ἀποδημέω" postag="v--pna---" relation="SBJ" sg="" gloss="" head="15"/>
+      <word id="17" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="18" insertion_id="0001e" artificial="elliptic" relation="ADV" lemma="εἰμί" postag="v-sppafg-" gloss="" form="οὔσης" sg="" head="15"/>
+   </sentence>
+   <sentence id="21" document_id="" subdoc="" span="">
+      <word id="1" form="ἔμπρακτον" lemma="ἔμπρακτος" postag="a-s---nn-" relation="PNOM" sg="" gloss="" head="3"/>
+      <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="COORD" gloss="" sg="" head="0"/>
+      <word id="3" form="γίνεται" lemma="γίγνομαι" postag="v3spie---" relation="PRED_CO" sg="" gloss="" head="2"/>
+      <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="22" document_id="" subdoc="" span="">
+      <word id="1" form="Σελήνη" lemma="Σελήνη" postag="n-s---fn-" relation="SBJ" sg="" gloss="" head="13"/>
+      <word id="2" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" gloss="" sg="" head="4"/>
+      <word id="3" form="ἀγαθοποιῶν" lemma="ἀγαθοποιός" postag="a-p---mg-" relation="OBJ" sg="" gloss="" head="2"/>
+      <word id="4" form="μαρτυρουμένη" lemma="μαρτυρέω" postag="v-sppefn-" relation="ATR" sg="" gloss="" head="1"/>
+      <word id="5" form="τετράγωνος" lemma="τετράγωνος" postag="a-s---mn-" relation="ATR_CO" gloss="" sg="" head="8"/>
+      <word id="6" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxY" gloss="" sg="" head="8"/>
+      <word id="7" form="τρίγωνος" lemma="τρίγωνος" postag="a-s---fn-" relation="ATR_CO" gloss="" sg="" head="8"/>
+      <word id="8" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" sg="" gloss="" head="1"/>
+      <word id="9" form="διάμετρος" lemma="διάμετρος, ον" postag="a-s---fn_" relation="" sg="" gloss="" head=""/>
+      <word id="10" form="καλὴν" lemma="καλός" postag="a-s---fa-" relation="ATR" sg="" gloss="" head="12"/>
+      <word id="11" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" sg="" gloss="" head="12"/>
+      <word id="12" form="ἀποδημίαν" lemma="ἀποδημία" postag="n-s---fa-" relation="OBJ" sg="" gloss="" head="13"/>
+      <word id="13" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" sg="" gloss="" head="0"/>
+      <word id="14" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+   </sentence>
+   <sentence id="23" document_id="" subdoc="" span="">
+      <word id="1" form="ὑπὸ" lemma="ὑπό" postag="r--------" relation="AuxP" gloss="" sg="" head="4"/>
+      <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" gloss="" sg="" head="0"/>
+      <word id="3" form="κακοποιῶν" lemma="κακοποιός" postag="a-p---ng-" relation="OBJ" gloss="" sg="" head="1"/>
+      <word id="4" form="μαρτυρηθεῖσα" lemma="μαρτυρέω" postag="v-sappfn-" relation="ATR" sg="" gloss="" head="12"/>
+      <word id="5" form="τετράγωνος" lemma="τετράγωνος" postag="a-s---mn-" relation="ATR_CO" gloss="" sg="" head="8"/>
+      <word id="6" form="ἢ" lemma="ἤ1" postag="c--------" relation="" gloss="" sg="" head=""/>
+      <word id="7" form="τρίγωνος" lemma="τρίγωνος" postag="a-s---fn-" relation="ATR_CO" gloss="" sg="" head="8"/>
+      <word id="8" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" gloss="" sg="" head="12"/>
+      <word id="9" form="διάμετρος" lemma="διάμετρος, ον" postag="a-s---fn_" relation="ATR_CO" gloss="" sg="" head="8"/>
+      <word id="10" form="κακήν" lemma="κακός" postag="a-s---fa-" relation="OBJ" gloss="" sg="" head="13"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
+      <word id="12" insertion_id="0000e" artificial="elliptic" relation="SBJ" lemma="Σελήνη" postag="n-s---fn-" gloss="" form="Σελήνη" sg="" head="13"/>
+      <word id="13" insertion_id="0010e" artificial="elliptic" relation="PRED_CO" lemma="σημαίνω" postag="v2spie---" gloss="" form="σημαίνει" sg="" head="2"/>
+   </sentence>
+</treebank>
