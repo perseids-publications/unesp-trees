@@ -31,6 +31,25 @@
             }
           ]
         },
+        
+        {
+          "path": "mytrees",
+          "author": "Maximus ",
+          "work": "Anedocta Astrologica, I.4",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "I.4",
+              "path": "maximus-astrol-1-4",
+              "xml": "maximus-astrol-1-4.xml",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "",
+              "chunks": { "start": 1, "end": 23 }
+            }
+          ]
+        },
+        
+        
         {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
