@@ -24,7 +24,7 @@
       <uri>http://data.perseus.org/sosol/users/anise</uri>
   </annotator>
    <sentence id="1" document_id="https://collections.perseids.org/collections/org.perseids/Publication/55229/members/urn:cite:perseus:grctb.8869.1" subdoc="" span="">
-      <word id="1" form="Περὶ" lemma="περί" postag="r--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
+       <word id="1" form="Περὶ" lemma="περί" postag="r--------" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="0"/>
       <word id="2" form="ὁδοιπορίας" lemma="ὁδοιπορία" postag="n-p---fa-" relation="" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" sg="" head="1"/>
       <word id="3" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
    </sentence>
@@ -367,7 +367,7 @@
       <word id="6" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxY" gloss="" sg="" head="8"/>
       <word id="7" form="τρίγωνος" lemma="τρίγωνος" postag="a-s---fn-" relation="ATR_CO" gloss="" sg="" head="8"/>
       <word id="8" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" sg="" gloss="" head="1"/>
-      <word id="9" form="διάμετρος" lemma="διάμετρος, ον" postag="a-s---fn_" relation="" sg="" gloss="" head=""/>
+      <word id="9" form="διάμετρος" lemma="διάμετρος, ον" postag="a-s---fn_" relation="" sg="" gloss="" head="8"/>
       <word id="10" form="καλὴν" lemma="καλός" postag="a-s---fa-" relation="ATR" sg="" gloss="" head="12"/>
       <word id="11" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" sg="" gloss="" head="12"/>
       <word id="12" form="ἀποδημίαν" lemma="ἀποδημία" postag="n-s---fa-" relation="OBJ" sg="" gloss="" head="13"/>
@@ -380,7 +380,7 @@
       <word id="3" form="κακοποιῶν" lemma="κακοποιός" postag="a-p---ng-" relation="OBJ" gloss="" sg="" head="1"/>
       <word id="4" form="μαρτυρηθεῖσα" lemma="μαρτυρέω" postag="v-sappfn-" relation="ATR" sg="" gloss="" head="12"/>
       <word id="5" form="τετράγωνος" lemma="τετράγωνος" postag="a-s---mn-" relation="ATR_CO" gloss="" sg="" head="8"/>
-      <word id="6" form="ἢ" lemma="ἤ1" postag="c--------" relation="" gloss="" sg="" head=""/>
+      <word id="6" form="ἢ" lemma="ἤ1" postag="c--------" relation="AuxY" gloss="" sg="" head="8"/>
       <word id="7" form="τρίγωνος" lemma="τρίγωνος" postag="a-s---fn-" relation="ATR_CO" gloss="" sg="" head="8"/>
       <word id="8" form="ἢ" lemma="ἤ1" postag="c--------" relation="COORD" gloss="" sg="" head="12"/>
       <word id="9" form="διάμετρος" lemma="διάμετρος, ον" postag="a-s---fn_" relation="ATR_CO" gloss="" sg="" head="8"/>
