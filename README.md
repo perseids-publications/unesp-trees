@@ -136,4 +136,4 @@ The instructions below explain an alternative method that is more complicated bu
 ## Licenses
 
 The code is licensed under the MIT license (see `LICENSE` file).
-The treebanks are licensed under the CC0 1.0 license (see `TREEBANK_LICENSE` file).
+The treebanks are licensed under the CC BY-SA 4.0 license (see `TREEBANK_LICENSE` file).
