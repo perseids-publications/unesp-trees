@@ -29,6 +29,7 @@ export const publicationType = shape({
   work: string.isRequired,
   editors: oneOfType([string, arrayOf(string)]).isRequired,
   hidden: bool,
+  collapsed: bool,
   sections: arrayOf(sectionType).isRequired,
 });
 
