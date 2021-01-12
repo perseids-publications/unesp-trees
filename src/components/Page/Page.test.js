@@ -47,6 +47,21 @@ it('does not render collections that are hidden', () => {
   delete config.collections[1].hidden;
 });
 
+it('does not render a publication that is hidden', () => {
+  config.collections[1].publications[1].hidden = true;
+
+  const component = (
+    <MemoryRouter initialEntries={['/']}>
+      <Page config={config} />
+    </MemoryRouter>
+  );
+  const tree = renderer.create(component).toJSON();
+
+  expect(tree).toMatchSnapshot();
+
+  delete config.collections[1].publications[1].hidden;
+});
+
 it('renders the footer with a doi', () => {
   config.doi = 'https://www.example.com/doi';
 

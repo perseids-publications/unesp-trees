@@ -28,6 +28,7 @@ export const publicationType = shape({
   author: string.isRequired,
   work: string.isRequired,
   editors: oneOfType([string, arrayOf(string)]).isRequired,
+  hidden: bool,
   sections: arrayOf(sectionType).isRequired,
 });
 

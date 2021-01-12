@@ -49,8 +49,13 @@ const renderRow = (publication) => {
     author,
     work,
     editors,
+    hidden,
     sections,
   } = publication;
+
+  if (hidden) {
+    return false;
+  }
 
   return (
     <tr className="d-flex" key={path}>
