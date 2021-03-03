@@ -19,6 +19,7 @@ export const sectionType = shape({
   path: string.isRequired,
   xml: string.isRequired,
   link: string,
+  license: string,
   notes: string,
   chunks: chunksType.isRequired,
 });
