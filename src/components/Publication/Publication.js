@@ -117,6 +117,7 @@ class Publication extends Component {
       editors,
       locus,
       publicationLink,
+      license,
       notes,
       xml,
       chunks,
@@ -161,6 +162,7 @@ class Publication extends Component {
               {!!subDoc && renderRow('Reference', subDoc)}
               {!!editors && renderRow('Editors', editors)}
               {!!publicationLink && renderLinkRow('Link', publicationLink)}
+              {!!license && renderRow('License', license)}
               {!!notes && renderMarkdownRow('Notes', notes)}
             </tbody>
           </table>
@@ -199,6 +201,7 @@ Publication.propTypes = {
   ]).isRequired,
   locus: PropTypes.string.isRequired,
   publicationLink: PropTypes.string,
+  license: PropTypes.string,
   notes: PropTypes.string,
   xml: PropTypes.string.isRequired,
   chunks: chunksType.isRequired,
@@ -211,6 +214,7 @@ Publication.defaultProps = {
   link: undefined,
   treebankReact: false,
   publicationLink: undefined,
+  license: undefined,
   notes: undefined,
 };
 

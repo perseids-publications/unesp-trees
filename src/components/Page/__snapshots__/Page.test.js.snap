@@ -5218,6 +5218,18 @@ Array [
           <th
             scope="col"
           >
+            License
+          </th>
+          <td
+            className="publicationRow"
+          >
+            CC BY-SA 4.0
+          </td>
+        </tr>
+        <tr>
+          <th
+            scope="col"
+          >
             Notes
           </th>
           <td
@@ -9353,6 +9365,18 @@ Array [
           <th
             scope="col"
           >
+            License
+          </th>
+          <td
+            className="publicationRow"
+          >
+            CC BY-SA 4.0
+          </td>
+        </tr>
+        <tr>
+          <th
+            scope="col"
+          >
             Notes
           </th>
           <td
@@ -13274,6 +13298,27 @@ Array [
                             : the ending sentence number in your file.
                           </li>
                         </ul>
+                      </li>
+                    </ul>
+                    The following fields are optional and can be used for more advanced configuration:
+                    <ul>
+                      <li>
+                        <code>
+                          link
+                        </code>
+                        : link to an external site.
+                      </li>
+                      <li>
+                        <code>
+                          license
+                        </code>
+                        : description of the license for this treebank.
+                      </li>
+                      <li>
+                        <code>
+                          notes
+                        </code>
+                        : any additional information.
                       </li>
                     </ul>
                   </li>
