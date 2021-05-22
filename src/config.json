@@ -30,10 +30,9 @@
               "chunks": { "start": 1, "end": 3 }
             }
           ]
-        },
-
-        
-{
+        },    
+      
+        {
           "path": "mytrees",
           "author": "Heródoto",
           "work": "Histórias",
