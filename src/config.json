@@ -59,7 +59,7 @@
               "path": "herodotus-1-10-12",
               "xml": "herodotus-1-10-12.xml",
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
-              "notes": "",
+              "notes": "Candaules e Giges",
               "chunks": { "start": 1, "end": 20 }
 		    
 		    },
@@ -67,6 +67,7 @@
               "locus": "8.78-83",
               "path": "herodotus-8-78-83",
               "xml": "herodotus-8-78-83.xml",
+	      "notes": "Excerto sobre a batalha de Salamina"
               "chunks": { "start": 1, "end": 36 }
             
             }
@@ -75,18 +76,18 @@
         
         
         {
-          "path": "",
-          "author": "",
-          "work": "",
-          "editors": "",
+          "path": "2.50,71,73",
+          "author": "Heródoto",
+          "work": "Histórias",
+          "editors": "Amanda Rodrigues",
           "sections": [
             
             {
-              "locus": "",
-              "path": "",
-              "xml": "",
+              "locus": "2-50-71-73",
+              "path": "herodotus-2-50-71-73",
+              "xml": "herodotus-2-50-71-73.xml",
               "link": "",
-              "notes": ".",
+              "notes": "Excertos do Egito: deuses, hipopótamo e fênix",
               "chunks": { "start": 1, "end": 134 }
             }
           ]
