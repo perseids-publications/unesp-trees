@@ -49,25 +49,25 @@
           ]
         },
 	      {
-          "path": "Herodotus",
-          "author": "Heródoto ",
-          "work": "Histórias",
-          "editors": "Anderson Moris",
+          "path": "",
+          "author": " ",
+          "work": "",
+          "editors": "",
           "sections": [
             { 
-              "locus": "1.10-12",
-              "path": "herodotus-1-10-12",
-              "xml": "herodotus-1-10-12.xml",
+              "locus": "",
+              "path": "",
+              "xml": "",
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
-              "notes": "Candaules e Giges",
+              "notes": "",
               "chunks": { "start": 1, "end": 20 }
 		    
 		    },
             {
-              "locus": "8.78-83",
-              "path": "herodotus-8-78-83",
-              "xml": "herodotus-8-78-83.xml",
-	      "notes": "Excerto sobre a batalha de Salamina",
+              "locus": "",
+              "path": "",
+              "xml": "",
+	      "notes": "",
               "chunks": { "start": 1, "end": 36 }
             
             }
@@ -76,19 +76,45 @@
         
         
         {
-          "path": "2.50,71,73",
-          "author": "Heródoto",
-          "work": "Histórias",
-          "editors": "Amanda Rodrigues",
+          "path": "",
+          "author": "",
+          "work": "",
+          "editors": "",
           "sections": [
             
             {
-              "locus": "2.50,2.71,2.73",
-              "path": "herodotus-2-50-71-73",
-              "xml": "herodotus-2-50-71-73.xml",
+              "locus": "",
+              "path": "",
+              "xml": "",
               "link": "",
-              "notes": "Excertos do Egito: deuses, hipopótamo e fênix",
+              "notes": "",
               "chunks": { "start": 1, "end": 25 }
+            }
+          ]
+        },
+
+ {
+          "path": "",
+          "author": "",
+          "work": "",
+          "editors": "",
+          "sections": [
+            { 
+              "locus": "",
+              "path": "",
+              "xml": "",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "",
+              "chunks": { "start": 1, "end": 20 }
+		    
+		    },
+            {
+              "locus": "",
+              "path": "",
+              "xml": "",
+	      "notes": "",
+              "chunks": { "start": 1, "end": 36 }
+            
             }
           ]
         },
@@ -116,9 +142,53 @@
       ]
     },
     {
-      "title": "Coleção a ser preenchida",
+      "title": "Coleção escolar Grego da pandemia",
       "publications": [
-        {
+        
+	      {
+	      "path": "Herodotus",
+          "author": "Heródoto ",
+          "work": "Histórias",
+          "editors": "Anderson Moris",
+          "sections": [
+            { 
+              "locus": "1.10-12",
+              "path": "herodotus-1-10-12",
+              "xml": "herodotus-1-10-12.xml",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "Candaules e Giges",
+              "chunks": { "start": 1, "end": 20 }
+		    
+		    },
+            {
+              "locus": "8.78-83",
+              "path": "herodotus-8-78-83",
+              "xml": "herodotus-8-78-83.xml",
+	      "notes": "Excerto sobre a batalha de Salamina",
+              "chunks": { "start": 1, "end": 36 }
+            
+            }
+          ]
+        },
+	      {
+          "path": "2.50,71,73",
+          "author": "Heródoto",
+          "work": "Histórias",
+          "editors": "Amanda Rodrigues",
+          "sections": [
+            
+            {
+              "locus": "2.50,2.71,2.73",
+              "path": "herodotus-2-50-71-73",
+              "xml": "herodotus-2-50-71-73.xml",
+              "link": "",
+              "notes": "Excertos do Egito: deuses, hipopótamo e fênix",
+              "chunks": { "start": 1, "end": 25 }
+            }
+          ]
+        },
+
+{
           "path": "",
           "author": "",
           "work": "",
