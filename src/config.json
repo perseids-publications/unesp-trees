@@ -142,7 +142,7 @@
       ]
     },
     {
-      "title": "Coleção escolar _Grego da pandemia_",
+      "title": "Seleção escolar: Grego da pandemia",
       "publications": [
         
 	      {
@@ -171,7 +171,7 @@
           ]
         },
 	      {
-          "path": "2.50,71,73",
+          "path": "herodotus",
           "author": "Heródoto",
           "work": "Histórias",
           "editors": "Amanda Rodrigues",
@@ -189,16 +189,16 @@
         },
 
 {
-          "path": "",
-          "author": "",
-          "work": "",
-          "editors": "",
+          "path": "euripides-ba",
+          "author": "Eurípides",
+          "work": "Bacantes",
+          "editors": "Amanda Rodrigues",
           "sections": [
             {
-              "locus": "",
+              "locus": "1-22",
               "path": "",
-              "xml": "",
-              "chunks": { "start": 1, "end": 100 }
+              "xml": "euripides-ba-1-22.xml",
+              "chunks": { "start": 1, "end": 6}
             },
             {
               "locus": "",
