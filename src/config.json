@@ -42,7 +42,80 @@
               "locus": "1.10-12",
               "path": "herodotus-1-10-12",
               "xml": "herodotus-1-10-12.xml",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",{
+	"title": "Coleção de treebanks dos Projetos Abertos em Letras Clássicas Digitais (em andamento)",
+	"subtitle": "Testando template de coleções de treebanks do Projeto Perseus",
+	"doi": "",
+	"copyright": "The Perseids Project: template for treebank collections para Projetos abertos em Letras Clássicas Digitais - CC BY-NC-SA ",
+	"report": "https://github.com/aniseferreira/treebank-template/issues",
+	"github": "https://github.com/aniseferreira/treebank-template/",
+	"twitter": "",
+	"collections": [{
+			"title": "Informação",
+			"text": "O Treebank Template é mantido pelo _Perseids Project_. Ver as instruções em [instruções para começar](/getting-started/). Ou visite [a homepage](https://www.perseids.org) para saber mais."
+		},
+		{
+			"title": "Coleção 2017-2021",
+			"publications": [
+
+				{
+					"path": "Árvores dos Projetos Abertos",
+					"author": "Artemidoro de Daldis",
+					"work": "Oneirocritica",
+					"editors": "Anise Ferreira",
+					"sections": [{
+						"locus": "5.55",
+						"path": "artemidorus-5-55",
+						"xml": "artemidorus-5-55.xml",
+						"link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+						"notes": "",
+						"chunks": {
+							"start": 1,
+							"end": 3
+						}
+					}]
+				},
+
+				{
+					"path": "mytrees",
+					"author": "Heródoto",
+					"work": "Histórias",
+					"editors": "Anderson Moris",
+					"sections": [{
+						"locus": "1.10-12",
+						"path": "herodotus-1-10-12",
+						"xml": "herodotus-1-10-12.xml",
+						"link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+						"notes": "",
+						"chunks": {
+							"start": 1,
+							"end": 20
+						}
+					}]
+				},
+
+				{
+					"path": "mytrees",
+					"author": "Maximus ",
+					"work": "Anedocta Astrologica",
+					"editors": "Anise Ferreira",
+					"sections": [{
+						"locus": "I.4",
+						"path": "maximus-astrol-1-4",
+						"xml": "maximus-astrol-1-4.xml",
+						"link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+						"notes": "",
+						"chunks": {
+							"start": 1,
+							"end": 23
+						}
+					}]
+				}
+
+			]
+		}
+	]
+}
               "notes": "",
               "chunks": { "start": 1, "end": 20 }
             }
