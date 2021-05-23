@@ -61,6 +61,14 @@
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
               "notes": "",
               "chunks": { "start": 1, "end": 20 }
+		    
+		    },
+            {
+              "locus": "8.78-83",
+              "path": "herodotus-8-78-83",
+              "xml": "herodotus-8-78-83.xml",
+              "chunks": { "start": 1, "end": 36 }
+            
             }
           ]
         },
