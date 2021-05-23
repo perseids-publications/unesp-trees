@@ -1,18 +1,18 @@
 {
-  "title": "Futura coleção de treebanks dos Projetos Abertos em Letras Clássicas Digitais",
-  "subtitle": "Testando a publicação de coleções de treebanks do Projeto Perseus",
+  "title": "Coleção de treebanks dos Projetos Abertos em Letras Clássicas Digitais (em andamento)",
+  "subtitle": "Testando template de coleções de treebanks do Projeto Perseus",
   "doi": "",
-  "copyright": "The Perseids Project: template for treebank collections, Projetos abertos em Letras Clássicas Digitais - CC BY-NC-SA ",
+  "copyright": "The Perseids Project: template for treebank collections para Projetos abertos em Letras Clássicas Digitais - CC BY-NC-SA ",
   "report": "https://github.com/aniseferreira/treebank-template/issues",
   "github": "https://github.com/aniseferreira/treebank-template/",
   "twitter": "",
   "collections": [
     {
-      "title": "Information",
-      "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more. Este template é mantido pelo Perseids Project"
+      "title": "Informação",
+      "text": "O Treebank Template é mantido pelo Perseids Project. Ver as instruções em [getting started instructions](/getting-started/). Ou visite [our homepage](https://www.perseids.org) para saber mais."
     },
     {
-      "title": "Collection 2017-2021",
+      "title": "Coleção 2017-2021",
       "publications": [
         
         {
