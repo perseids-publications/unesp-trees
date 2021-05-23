@@ -1,6 +1,6 @@
 {
   "title": "Futura coleção de treebanks dos Projetos Abertos em Letras Clássicas Digitais",
-  "subtitle": "Following the template for publishing Perseids Project's treebank collections",
+  "subtitle": "Testando a publicação de coleções de treebanks do Projeto Perseus",
   "doi": "",
   "copyright": "The Perseids Project: template for treebank collections, Projetos abertos em Letras Clássicas Digitais - CC BY-NC-SA ",
   "report": "https://github.com/aniseferreira/treebank-template/issues",
@@ -12,11 +12,11 @@
       "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more. Este template é mantido pelo Perseids Project"
     },
     {
-      "title": "Collection 1",
+      "title": "Collection 2017-2021",
       "publications": [
         
         {
-          "path": "mytrees",
+          "path": "Árvores dos Projetos Abertos",
           "author": "Artemidoro de Daldis",
           "work": "Oneirocritica",
           "editors": "Anise Ferreira",
