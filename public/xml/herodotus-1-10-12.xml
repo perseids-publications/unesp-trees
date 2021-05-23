@@ -36,7 +36,7 @@
       <uri>http://data.perseus.org/sosol/users/anise</uri>
   </annotator>
    <sentence id="1"
-             document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:1.10.1-1.12.2"
+             document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1"
              subdoc="1.10"
              span="">
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="SBJ" gloss="" sg="" head="9"/>
