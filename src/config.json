@@ -27,6 +27,7 @@
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
               "notes": "",
               "chunks": { "start": 1, "end": 3 }
+		   	    
             }
           ]
         },
@@ -44,6 +45,22 @@
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
               "notes": "",
               "chunks": { "start": 1, "end": 23 }
+            }
+          ]
+        },
+	      {
+          "path": "Herodotus",
+          "author": "Heródoto ",
+          "work": "Histórias",
+          "editors": "Anderson Moris",
+          "sections": [
+            { 
+              "locus": "1.10-12",
+              "path": "herodotus-1-10-12",
+              "xml": "herodotus-1-10-12.xml",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "",
+              "chunks": { "start": 1, "end": 20 }
             }
           ]
         },
