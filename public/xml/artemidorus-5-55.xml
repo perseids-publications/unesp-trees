@@ -24,8 +24,8 @@
       <uri>http://data.perseus.org/sosol/users/anise</uri>
   </annotator>
    <sentence id="1"
-             document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1:5.55"
-             subdoc=""
+             document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1"
+             subdoc="5.55"
              span="">
       <word id="1" form="Δρομεὺς" lemma="δρομεύς" postag="n-s---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="11"/>
       <word id="2" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="6"/>
