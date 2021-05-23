@@ -32,7 +32,7 @@
         },
         
         {
-          "path": "mytrees",
+          "path": "Anedocta-Astrologica",
           "author": "Maximus ",
           "work": "Anedocta Astrologica",
           "editors": "Anise Ferreira",
@@ -50,18 +50,18 @@
         
         
         {
-          "path": "on-the-murder-of-eratosthenes",
-          "author": "Lysias",
-          "work": "On the Murder of Eratosthenes",
-          "editors": "Vanessa Gorman",
+          "path": "",
+          "author": "",
+          "work": "",
+          "editors": "",
           "sections": [
             
             {
-              "locus": "1-50",
-              "path": "on-the-murder-of-eratosthenes-1-50",
-              "xml": "lysias-1-1-50.xml",
-              "link": "https://www.example.com",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "locus": "",
+              "path": "",
+              "xml": "",
+              "link": "",
+              "notes": ".",
               "chunks": { "start": 1, "end": 134 }
             }
           ]
