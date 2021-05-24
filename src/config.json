@@ -196,15 +196,24 @@
           "sections": [
             {
               "locus": "1-22",
-              "path": "",
+              "path": "euripides-ba-1-22",
               "xml": "euripides-ba-1-22.xml",
               "chunks": { "start": 1, "end": 6}
+	    }
+		  ]
             },
+{
+          "path": "plat-hip-min-369d",
+          "author": "Platão",
+          "work": "HípiasMenor",
+          "editors": "Amanda Rodrigues",
+          "sections": [
+            
             {
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "chunks": { "start": 1, "end": 166 }
+              "locus": "369d",
+              "path": "plat-hip-min-369d",
+              "xml": "plat-hip-min-369d.xml",
+              "chunks": { "start": 1, "end": 5 }
             },
             {
               "locus": "",
