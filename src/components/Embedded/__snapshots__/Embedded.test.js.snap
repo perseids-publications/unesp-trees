@@ -14,13 +14,38 @@ exports[`provides an API to communicate with an embedded publication 1`] = `
     className="links"
   >
     <a
-      href="/on-the-murder-of-eratosthenes-1-50/5"
+      href="https://www.example.com/on-the-murder-of-eratosthenes-1-50/5"
       rel="noopener noreferrer"
       target="_blank"
     >
       Credits and more information
     </a>
   </div>
+  <link
+    href="https://www.example.com/arethusa/css/arethusa.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/colorpicker.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/font-awesome.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/foundation-icons.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/widget.css"
+    rel="stylesheet"
+    type="text/css"
+  />
 </div>
 `;
 
@@ -67,13 +92,38 @@ exports[`renders an embedded publication 1`] = `
     className="links"
   >
     <a
-      href="/on-the-murder-of-eratosthenes-1-50/1"
+      href="https://www.example.com/on-the-murder-of-eratosthenes-1-50/1"
       rel="noopener noreferrer"
       target="_blank"
     >
       Credits and more information
     </a>
   </div>
+  <link
+    href="https://www.example.com/arethusa/css/arethusa.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/colorpicker.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/font-awesome.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/foundation-icons.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/widget.css"
+    rel="stylesheet"
+    type="text/css"
+  />
 </div>
 `;
 
@@ -91,12 +141,37 @@ exports[`the API can be used to select words 1`] = `
     className="links"
   >
     <a
-      href="/on-the-murder-of-eratosthenes-1-50/5"
+      href="https://www.example.com/on-the-murder-of-eratosthenes-1-50/5"
       rel="noopener noreferrer"
       target="_blank"
     >
       Credits and more information
     </a>
   </div>
+  <link
+    href="https://www.example.com/arethusa/css/arethusa.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/colorpicker.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/font-awesome.min.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/foundation-icons.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://www.example.com/arethusa/css/widget.css"
+    rel="stylesheet"
+    type="text/css"
+  />
 </div>
 `;

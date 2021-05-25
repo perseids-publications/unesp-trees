@@ -6,6 +6,7 @@
 	"report": "https://github.com/aniseferreira/treebank-template/issues",
 	"github": "https://github.com/aniseferreira/treebank-template/",
 	"twitter": "",
+	"treebankReact": true,
 	"collections": [{
 			"title": "Informação",
 			"text": "O Treebank Template é mantido pelo _Perseids Project_. Ver as instruções em [instruções para começar](/getting-started/). Ou visite [a homepage](https://www.perseids.org) para saber mais."

@@ -110,12 +110,14 @@ class Publication extends Component {
     const {
       logo,
       link,
+      treebankReact,
       publicationPath,
       author,
       work,
       editors,
       locus,
       publicationLink,
+      license,
       notes,
       xml,
       chunks,
@@ -160,6 +162,7 @@ class Publication extends Component {
               {!!subDoc && renderRow('Reference', subDoc)}
               {!!editors && renderRow('Editors', editors)}
               {!!publicationLink && renderLinkRow('Link', publicationLink)}
+              {!!license && renderRow('License', license)}
               {!!notes && renderMarkdownRow('Notes', notes)}
             </tbody>
           </table>
@@ -170,11 +173,13 @@ class Publication extends Component {
               location={location}
               match={match}
               arethusa={this.arethusa}
+              treebankReact={treebankReact}
+              setSubdoc={(s) => this.setState({ subDoc: s })}
             />
           </div>
           <div className="pt-1 pb-4 text-right">
             <a href={`${process.env.PUBLIC_URL}/xml/${xml}`} target="_blank" rel="noopener noreferrer">
-              View XML
+              View full XML
             </a>
           </div>
         </div>
@@ -186,6 +191,7 @@ class Publication extends Component {
 Publication.propTypes = {
   logo: PropTypes.string,
   link: PropTypes.string,
+  treebankReact: PropTypes.bool,
   publicationPath: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
   work: PropTypes.string.isRequired,
@@ -195,6 +201,7 @@ Publication.propTypes = {
   ]).isRequired,
   locus: PropTypes.string.isRequired,
   publicationLink: PropTypes.string,
+  license: PropTypes.string,
   notes: PropTypes.string,
   xml: PropTypes.string.isRequired,
   chunks: chunksType.isRequired,
@@ -205,7 +212,9 @@ Publication.propTypes = {
 Publication.defaultProps = {
   logo: undefined,
   link: undefined,
+  treebankReact: false,
   publicationLink: undefined,
+  license: undefined,
   notes: undefined,
 };
 

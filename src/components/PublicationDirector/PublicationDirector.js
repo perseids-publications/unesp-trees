@@ -10,7 +10,7 @@ class PublicationDirector extends Component {
 
     const { config } = props;
     const argsLookup = {};
-    const { logo, link } = config;
+    const { logo, link, treebankReact } = config;
 
     config.collections.forEach((collection) => {
       (collection.publications || []).forEach((publication) => {
@@ -23,6 +23,7 @@ class PublicationDirector extends Component {
             path,
             locus,
             link: publicationLink,
+            license,
             notes,
             xml,
             chunks,
@@ -31,12 +32,14 @@ class PublicationDirector extends Component {
           argsLookup[path] = {
             logo,
             link,
+            treebankReact,
             publicationPath,
             author,
             work,
             editors,
             locus,
             publicationLink,
+            license,
             notes,
             xml,
             chunks,
