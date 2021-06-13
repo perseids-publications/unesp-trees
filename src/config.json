@@ -40,8 +40,8 @@
           "sections": [
             { 
               "locus": "I.4",
-              "path": "maximus-astrol-1-4",
-              "xml": "maximus-astrol-1-4.xml",
+              "path": "max-astrol-I-4-1-14",
+              "xml": "max-astrol-I-4-1-14.xml",
               "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
               "notes": "",
               "chunks": { "start": 1, "end": 23 }
