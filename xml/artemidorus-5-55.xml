@@ -46,7 +46,7 @@
       <word id="17" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="23"/>
       <word id="18" form="λεκάνῃ" lemma="λεκάνη" postag="n-s---fd-" relation="ADV" gloss="" sg="dtv dpd ins prp ins_mns" head="17"/>
       <word id="19" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" gloss="" sg="" head="20"/>
-      <word id="20" form="πόδας" lemma="πούς" postag="n-p---ma-" relation="OBJ" gloss="" sg="acc dpd aff" head="21"/>
+      <word id="20" form="πόδας" lemma="πούς" postag="n-p---ma-" relation="SBJ" gloss="" sg="acc dpd aff" head="21"/>
       <word id="21" form="νίπτεσθαι" lemma="νίζω" postag="v--pne---" relation="OBJ" gloss="" sg="dpd vrb" head="11"/>
       <word id="22" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
       <word id="23" insertion_id="0016e" artificial="elliptic" relation="ADV" form="[0]" sg="" head="16"/>
