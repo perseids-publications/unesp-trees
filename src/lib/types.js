@@ -52,7 +52,6 @@ export const configType = shape({
   github: string,
   twitter: string,
   collections: arrayOf(collectionType).isRequired,
-  treebankReact: bool,
 });
 
 export const locationType = shape({
