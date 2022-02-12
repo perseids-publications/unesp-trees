@@ -21,10 +21,10 @@
           "sections": [
             { 
               "locus": "5.proemio",
-              "path": "",
-              "xml": "",
+              "path": "artem-onir-5-proemio",
+              "xml": "artem-onir-5-proemio.xml",
               "link": "https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview",
-              "notes": "Árvores do proêmio não estão disponíveis no momento.",
+              "notes": "A tradução alinhada grego-português está disponível no [link]("https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview"){:target="\_blank"},
               "chunks": { "start": 1, "end": 6 }
 		   	    
             }
