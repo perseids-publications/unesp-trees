@@ -9,7 +9,7 @@
 	"treebankReact": true,
 	"collections": [{
 			"title": "Open Projects in Digital Classics - UNESP",
-			"text": "Nesta coleção estão publicadas as árvores anotadas pela professora responsável e por alunos de graduação e pós-graduação como projetos individuais e de sala de aula, por meio da Plataforma Perseids.  Individual and classroom works based on the Ancient Greek and Latin Dependency Treebank. Ao selecionar um texto, surgirá a árvore anotada, e a descrição morfossintática de cada palavra surgirá na parte inferior da árvore, após clicar na opção: Show Morphology"
+			"text": "Nesta coleção estão publicadas as árvores anotadas pela professora responsável e por alunos de graduação e pós-graduação como projetos individuais e de sala de aula, por meio da Plataforma Perseids.  Individual and classroom works based on the _Ancient Greek and Latin Dependency Treebank_. Ao selecionar um texto, surgirá a árvore anotada, e a descrição morfossintática de cada palavra surgirá na parte inferior da árvore, após clicar na palavra desejada."
 		}, {
       "title": "Coleção  2017-2021",
       "publications": [
@@ -23,8 +23,8 @@
               "locus": "5.proemio",
               "path": "artem-onir-5-proemio",
               "xml": "artem-onir-5-proemio.xml",
-              "link": "https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview",
-              "notes": "A tradução alinhada grego-português está disponível no [link]("https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview"){:target="\_blank"},
+              "link": "https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview", "target=_blank",
+              "notes": "A tradução alinhada grego-português está disponível no link acima" ,
               "chunks": { "start": 1, "end": 6 }
 		   	    
             }
