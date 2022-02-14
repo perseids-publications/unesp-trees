@@ -49,6 +49,25 @@
           ]
         },
         
+{
+          "path": "mytrees",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro V",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "5.81-5.95",
+              "path": "artem-onir-5.81-5.95",
+              "xml": "artem-onir-5.81-5.95.xml",
+              "link": "",
+              "notes": "",
+              "chunks": { "start": 1, "end": 53 }
+		   	    
+            }
+          ]
+        },
+
+
         {
           "path": "Anedocta-Astrologica",
           "author": "Maximus ",
