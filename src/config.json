@@ -78,7 +78,7 @@
               "xml": "artem-onir-5.31-5.40.xml",
               "link": "http://ugarit.ialigner.com/userProfile.php?userid=15&tgid=9056&p=2",
               "notes": "Tradução alinhada em português disponível no link acima ",
-              "chunks": { "start": 1, "end":30 }
+              "chunks": { "start": 37, "end":66 }
 		   	    
             }
           ]
@@ -95,7 +95,7 @@
               "xml": "artem-onir-5.41-5.50.xml",
               "link": "http://ugarit.ialigner.com/userProfile.php?userid=15&tgid=9056&p=3",
               "notes": "Tradução alinhada em português disponível no link acima ",
-              "chunks": { "start": 1, "end":36 }
+              "chunks": { "start": 67, "end":99 }
 		   	    
             }
           ]
