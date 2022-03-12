@@ -10,7 +10,8 @@
 	"collections": [{
 			"title": "Open Projects in Digital Classics - UNESP",
 			"text": "Nesta coleção estão publicadas as árvores anotadas pela professora responsável e por alunos de graduação e pós-graduação como projetos individuais e de sala de aula, por meio da Plataforma Perseids (http://perseids.org).",
-                        "text": "Individual and classroom works based on the _Ancient Greek and Latin Dependency Treebank_. Ao selecionar um texto, surgirá a árvore anotada, e a descrição morfossintática de cada palavra surgirá na parte inferior da árvore, após clicar na palavra desejada.",
+		
+                        "text": "\\nIndividual and classroom works based on the _Ancient Greek and Latin Dependency Treebank_. Ao selecionar um texto, surgirá a árvore anotada, e a descrição morfossintática de cada palavra surgirá na parte inferior da árvore, após clicar na palavra desejada.",
 		}, {
       "title": "Coleção  2017-2022",
       "publications": [
