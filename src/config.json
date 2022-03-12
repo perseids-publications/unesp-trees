@@ -138,6 +138,27 @@
           ]
         },   
 	       
+      
+	          {
+          "path": "mytrees",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro V",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "5.71-5.80",
+              "path": "artem-onir-5.71-5.80",
+              "xml": "artem-onir-5.71-5.80.xml",
+              "link": "",
+              "notes": " ",
+              "chunks": { "start":1 , "end":37 }
+		   	    
+            }
+          ]
+        },   
+	       
+
+
 {
           "path": "mytrees",
           "author": "Artemidoro de Daldis",
