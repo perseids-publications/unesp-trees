@@ -140,7 +140,7 @@
             }
           ]
         },   
-	       
+	
       
 	          {
           "path": "mytrees",
@@ -180,27 +180,6 @@
           ]
         },
 
-
-        {
-          "path": "Anedocta-Astrologica",
-          "author": "Maximus ",
-          "work": "Anedocta Astrologica",
-          "editors": "Anise Ferreira",
-          "sections": [
-            { 
-              "locus": "I.4",
-              "path": "max-astrol-I-4-1-14",
-              "xml": "max-astrol-I-4-1-14.xml",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
-              "notes": "",
-              "chunks": { "start": 1, "end": 23 }
-            }
-          ]
-        },
-	      
-        
-
-   
     {
       "title": "Seleção escolar: Grego na pandemia",
       "publications": [
@@ -217,11 +196,27 @@
               "path": "aesch-eum-117-139",
               "xml": "aesch-eum-117-139.xml",
               "link": "https://ugarit.ialigner.com/text.php?id=30597",
-              "notes": "Alinhamento por Brenda C. Galatti do grego à tradução de J.A.Torrano no link acima",
+              "notes": "Alinhamento por Brenda C. Galatti, do grego à tradução de J.A.Torrano no link acima",
               "chunks": { "start": 1, "end": 20 }
 		    
 		    },
-
+ {
+          "path": "Anedocta-Astrologica",
+          "author": "Maximus ",
+          "work": "Anedocta Astrologica",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "I.4",
+              "path": "max-astrol-I-4-1-14",
+              "xml": "max-astrol-I-4-1-14.xml",
+              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "notes": "",
+              "chunks": { "start": 1, "end": 23 }
+            }
+          ]
+        },
+	      
 	      {
 	      "path": "Herodotus",
           "author": "Heródoto ",
