@@ -205,6 +205,23 @@
       "title": "Seleção escolar: Grego na pandemia",
       "publications": [
         
+
+{
+	      "path": "Aeschylus",
+          "author": "Ésquilo ",
+          "work": "Eumênides",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "117-139",
+              "path": "aesch-eum-117-139",
+              "xml": "aesch-eum-117-139.xml",
+              "link": "https://ugarit.ialigner.com/text.php?id=30597",
+              "notes": "Alinhamento por Brenda C. Galatti do grego à tradução de J.A.Torrano no link acima",
+              "chunks": { "start": 1, "end": 20 }
+		    
+		    },
+
 	      {
 	      "path": "Herodotus",
           "author": "Heródoto ",
