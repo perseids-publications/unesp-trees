@@ -101,7 +101,43 @@
           ]
         },   
 	      
+	          {
+          "path": "mytrees",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro V",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "5.51-5.60",
+              "path": "artem-onir-5.51-5.60",
+              "xml": "artem-onir-5.51-5.60.xml",
+              "link": "",
+              "notes": " ",
+              "chunks": { "start":1 , "end":32 }
+		   	    
+            }
+          ]
+        },   
+
 	      
+	          {
+          "path": "mytrees",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro V",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "5.61-5.70",
+              "path": "artem-onir-5.61-5.70",
+              "xml": "artem-onir-5.61-5.70.xml",
+              "link": "",
+              "notes": " ",
+              "chunks": { "start":1 , "end":35 }
+		   	    
+            }
+          ]
+        },   
+	       
 {
           "path": "mytrees",
           "author": "Artemidoro de Daldis",
