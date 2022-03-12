@@ -197,99 +197,10 @@
             }
           ]
         },
-	      {
-          "path": "",
-          "author": " ",
-          "work": "",
-          "editors": "",
-          "sections": [
-            { 
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/alignments_XHTML/Artem_5.55.xhtml",
-              "notes": "",
-              "chunks": { "start": 1, "end": 20 }
-		    
-		    },
-            {
-              "locus": "",
-              "path": "",
-              "xml": "",
-	      "notes": "",
-              "chunks": { "start": 1, "end": 36 }
-            
-            }
-          ]
-        },
+	      
         
-        
-        {
-          "path": "",
-          "author": "",
-          "work": "",
-          "editors": "",
-          "sections": [
-            
-            {
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "link": "",
-              "notes": "",
-              "chunks": { "start": 1, "end": 25 }
-            }
-          ]
-        },
 
- {
-          "path": "",
-          "author": "",
-          "work": "",
-          "editors": "",
-          "sections": [
-            { 
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
-              "notes": "",
-              "chunks": { "start": 1, "end": 20 }
-		    
-		    },
-            {
-              "locus": "",
-              "path": "",
-              "xml": "",
-	      "notes": "",
-              "chunks": { "start": 1, "end": 36 }
-            
-            }
-          ]
-        },
-        {
-          "path": "",
-          "author": "",
-          "work": "",
-          "editors": "",
-          "sections": [
-            {
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "notes": "",
-              "chunks": { "start": 1, "end": 160 }
-            },
-            {
-              "locus": "",
-              "path": "",
-              "xml": "",
-              "chunks": { "start": 1, "end": 149 }
-            }
-          ]
-        }
-      ]
-    },
+   
     {
       "title": "Seleção escolar: Grego na pandemia",
       "publications": [
