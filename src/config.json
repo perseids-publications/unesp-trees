@@ -303,6 +303,25 @@
             }
           ]
         },
+	      
+	    {
+          "path": "plat-alc1-105a-105c",
+          "author": "Platão",
+          "work": "Alcibíades I",
+          "editors": "Anderson Moris",
+          "sections": [
+            {
+              "locus": "2.3",
+              "path": "plat-alc1-105a-105c",
+              "xml": "plat-alc1-105a-105c.xml",
+              "notes": ".",
+              "chunks": { "start": 1, "end": 8 }
+            }
+          ]
+        },  
+	      
+	      
+	      
         {
           "path": "euripides-ba",
           "author": "Eurípides",
