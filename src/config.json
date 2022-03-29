@@ -239,6 +239,23 @@
             }
           ]
         },
+{
+	  "path": "Herodotus",
+          "author": "Heródoto ",
+          "work": "Histórias",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "1.30.1-1.30.5",
+              "path": "hdt.1.30.1-1.30.5",
+              "xml": "hdt.1.30.1-1.30.5.xml",
+              "link": "https://sosol.perseids.org/sosol/publications/66534/alignment_cite_identifiers/76733/preview",
+              "notes": "Sólon chega a Creso: Telos, o mais afortunado. Alinhamento de uma tradução por Murilo G.Alves",
+              "chunks": { "start": 1, "end": 10 }
+		    
+		   }
+       ]
+},
 	      {
           "path": "herodotus",
           "author": "Heródoto",
