@@ -207,7 +207,7 @@
               "locus": "I.4",
               "path": "max-astrol-I-4-1-14",
               "xml": "max-astrol-I-4-1-14.xml",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "link": "",
               "notes": "",
               "chunks": { "start": 1, "end": 23 }
             }
@@ -224,7 +224,7 @@
               "locus": "1.10-12",
               "path": "herodotus-1-10-12",
               "xml": "herodotus-1-10-12.xml",
-              "link": "https://aniseferreira.github.io/LetrasClassicasDigitais/teste-integracao-treebank-alpheios1.html",
+              "link": "",
               "notes": "Candaules e Giges",
               "chunks": { "start": 1, "end": 20 }
 		    
