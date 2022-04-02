@@ -215,7 +215,7 @@
         },
 	      
 	      {
-	      "path": "Herodotus",
+	      "path": "Anderson",
           "author": "Heródoto ",
           "work": "Histórias",
           "editors": "Anderson Moris",
@@ -257,7 +257,7 @@
        ]
 },
 	      {
-          "path": "herodotus",
+          "path": "Amanda",
           "author": "Heródoto",
           "work": "Histórias",
           "editors": "Amanda Rodrigues",
@@ -277,7 +277,7 @@
         },
 
 {
-          "path": "euripides-ba",
+          "path": "Amanda",
           "author": "Eurípides",
           "work": "Bacantes",
           "editors": "Amanda Rodrigues",
@@ -291,7 +291,7 @@
 		  ]
             },
 {
-          "path": "plat-hip-min-369d",
+          "path": "Amanda",
           "author": "Platão",
           "work": "Hípias Menor",
           "editors": "Amanda Rodrigues",
@@ -306,7 +306,7 @@
 		  ]
             },
 	      {
-          "path": "ath-deipno-2-3-eubulo",
+          "path": "Amanda",
           "author": "Ateneu",
           "work": "Deipnosofistas",
           "editors": "Amanda Rodrigues",
@@ -322,7 +322,7 @@
         },
 	      
 	    {
-          "path": "plat-alc1-105a-105c",
+          "path": "Anderson",
           "author": "Platão",
           "work": "Alcibíades I",
           "editors": "Anderson Moris",
@@ -340,7 +340,7 @@
 	      
 	      
         {
-          "path": "euripides-ba",
+          "path": "Anderson",
           "author": "Eurípides",
           "work": "Bacantes",
           "editors": [
