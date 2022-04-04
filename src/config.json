@@ -184,7 +184,7 @@
 	  "path": "Ésquilo",
           "author": "Ésquilo ",
           "work": "Eumênides",
-          "editors": "Anise Ferreira",
+          "editors": ["Anise Ferreira","Brenda C. Galatti"],
           "sections": [
             { 
               "locus": "117-139",
