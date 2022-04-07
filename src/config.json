@@ -340,6 +340,24 @@
           ]
         },  
 	      
+   {
+          "path": "Pausanias",
+          "author": "Pausânias",
+          "work": "Descrição da Grécia",
+          "editors": [
+              "Anise Ferreira",
+              "Caio Camargo",
+             ],
+          "sections": [
+            {
+              "locus": "1.1.1-1.1.2",
+              "path": "",
+              "xml": "paus-1.1.1-1.1.2",
+              "notes": ".",
+              "chunks": { "start": 1, "end": 10 }
+            }
+          ]
+        },  
 	      
 	      
         {
