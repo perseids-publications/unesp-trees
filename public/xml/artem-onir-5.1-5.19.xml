@@ -404,7 +404,7 @@
       <word id="5" form="ἀγωνίζεσθαι" lemma="ἀγωνίζομαι" postag="v--pne---" relation="OBJ_CO" gloss="" sg="" head="10"/>
       <word id="6" form="ἀνδρῶν" lemma="ἀνήρ" postag="n-p---mg-" relation="ATR" gloss="" sg="" head="7"/>
       <word id="7" form="πάλην" lemma="πάλα" postag="n-s---fa-" relation="OBJ" gloss="" sg="" head="5"/>
-      <word id="8" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="10"/>
+      <word id="8" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="10"/>
       <word id="9" form="νικᾶν" lemma="νικάω" postag="v--pna---" relation="OBJ_CO" gloss="" sg="" head="10"/>
       <word id="10" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="1"/>
       <word id="11" form="στεφανοῦσθαι" lemma="στεφανόω" postag="v--pne---" relation="OBJ_CO" gloss="" sg="" head="10"/>
@@ -944,7 +944,7 @@
    <sentence id="59" document_id="Artem.Onir.5" subdoc="18.2" span="">
       <word id="1" form="ἐφιλοσόφησεν" lemma="φιλοσοφέω" postag="v3saia---" relation="PRED" gloss="" sg="" head="0"/>
       <word id="2" form="εὐτόνως" lemma="εὔτονος" postag="a--------" relation="ADV" gloss="" sg="" head="1"/>
-      <word id="3" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="6"/>
+      <word id="3" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="6"/>
       <word id="4" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" gloss="" sg="" head="5"/>
       <word id="5" form="λόγοις" lemma="λόγος" postag="n-p---md-" relation="OBJ_CO" gloss="" sg="" head="6"/>
       <word id="6" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="9"/>

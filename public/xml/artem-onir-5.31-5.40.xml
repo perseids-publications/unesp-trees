@@ -181,7 +181,7 @@
       <word id="4" form="μὴ" lemma="μὴ" postag="d-------_" relation="AuxZ" gloss="" sg="" head="11"/>
       <word id="5" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" gloss="" sg="" head="6"/>
       <word id="6" form="ἀναγκαῖα" lemma="ἀναγκαῖον" postag="n-p---nn-" relation="SBJ" gloss="" sg="" head="11"/>
-      <word id="7" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="11"/>
+      <word id="7" form="καὶ" lemma="καί" postag="c-------_" relation="AuxY" gloss="" sg="" head="11"/>
       <word id="8" form="ἀπόκρυφα" lemma="ἀπόκρυφος" postag="a-p---nn-" relation="ATR" gloss="" sg="" head="6"/>
       <word id="9" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ATR" gloss="" sg="" head="1"/>
       <word id="10" form="ἐξοζήσῃ" lemma="ἐξόζω" postag="v3sasa---" relation="ATR_CO" gloss="" sg="" head="11"/>
@@ -610,7 +610,7 @@
       <word id="4" form="·" lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
    </sentence>
    <sentence id="66" document_id="Artem.Onir." subdoc="5.40.3" span="">
-      <word id="1" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="10"/>
+      <word id="1" form="καὶ" lemma="καί" postag="d-------_" relation="AuxY" gloss="" sg="" head="10"/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" gloss="" sg="" head="10"/>
       <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" gloss="" sg="" head="4"/>
       <word id="4" form="ψυχὴ" lemma="ψυχή" postag="n-s---fn-" relation="SBJ" gloss="" sg="" head="10"/>
