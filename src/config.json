@@ -377,6 +377,25 @@
           ]
         },  
 	      
+	{
+          "path": "ps-xenoph-sym_1-1_1-4",
+          "author": "Ps.Xenofonte",
+          "work": "O Banquete",
+          "editors": [
+              "Anise Ferreira",
+              "Murilo G. Alves"
+             ],
+          "sections": [
+            {
+              "locus": "1.1-1.4",
+              "path": "ps-xenoph-sym_1-1_1-4"
+              "xml": "ps-xenoph-sym_1-1_1-4.xml",
+              "notes": ".",
+              "chunks": { "start": 1, "end": 9 }
+            }
+          ]
+        },        
+	      
 	      
         {
           "path": "Anderson",
