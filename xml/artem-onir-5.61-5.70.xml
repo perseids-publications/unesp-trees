@@ -370,7 +370,7 @@
       <word id="3" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" gloss="" sg="" head="1"/>
       <word id="4" form="ὀχήματος" lemma="ὄχημα" postag="n-s---ng-" relation="OBJ" gloss="" sg="" head="3"/>
       <word id="5" form="περιστρεφθέντος" lemma="περιστρέφω" postag="v-sappng-" relation="ATR" gloss="" sg="" head="4"/>
-      <word id="6" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="13"/>
+      <word id="6" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="13"/>
       <word id="7" form="συνετρίβη" lemma="συντρίβω" postag="v3saip---" relation="PRED_CO" gloss="" sg="" head="13"/>
       <word id="8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" gloss="" sg="" head="9"/>
       <word id="9" form="χεῖρα" lemma="χείρ" postag="n-s---fa-" relation="OBJ" gloss="" sg="" head="7"/>
@@ -535,7 +535,7 @@
       <word id="5" form="πρωκτῷ" lemma="πρωκτός" postag="n-s---md-" relation="ADV" gloss="" sg="" head="3"/>
       <word id="6" form="στόμα" lemma="στόμα" postag="n-s---na-" relation="OBJ_CO" gloss="" sg="" head="18"/>
       <word id="7" form="ἔχειν" lemma="ἔχω" postag="v--pna---" relation="OBJ_CO" gloss="" sg="" head="22"/>
-      <word id="8" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="18"/>
+      <word id="8" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="18"/>
       <word id="9" form="ὀδόντας" lemma="ὀδούς" postag="n-p---ma-" relation="OBJ_CO" gloss="" sg="" head="18"/>
       <word id="10" form="μεγάλους" lemma="μέγας" postag="a-p---ma-" relation="ATR_CO" gloss="" sg="" head="11"/>
       <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="9"/>
@@ -601,7 +601,7 @@
       <word id="10" form="πλησίον" lemma="πλησίος" postag="d--------" relation="AuxP" gloss="" sg="" head="9"/>
       <word id="11" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" gloss="" sg="" head="12"/>
       <word id="12" form="κεράμων" lemma="κέραμος" postag="n-p---mg-" relation="ADV" gloss="" sg="" head="10"/>
-      <word id="13" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="37"/>
+      <word id="13" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="37"/>
       <word id="14" form="ἀγάλλεσθαι" lemma="ἀγάλλω" postag="v--pne---" relation="OBJ_CO" gloss="" sg="" head="21"/>
       <word id="15" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" gloss="" sg="" head="21"/>
       <word id="16" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" gloss="" sg="" head="14"/>

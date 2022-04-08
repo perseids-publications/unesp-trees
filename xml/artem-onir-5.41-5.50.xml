@@ -106,7 +106,7 @@
       <word id="18" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" gloss="" sg="" head="19"/>
       <word id="19" form="ἂλλους" lemma="ἄλλος" postag="p-p---ma-" relation="OBJ" gloss="" sg="" head="16"/>
       <word id="20" form="χαλεπαίνειν" lemma="χαλεπαίνω" postag="v--pna---" relation="OBJ_CO" gloss="" sg="" head="23"/>
-      <word id="21" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="23"/>
+      <word id="21" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="23"/>
       <word id="22" form="λυπεῖσθαι" lemma="λυπέω" postag="v--pne---" relation="OBJ_CO" sg="" gloss="" head="23"/>
       <word id="23" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="1"/>
       <word id="24" form="μυσαττόμενον" lemma="μυσάττομαι" postag="v-sppema-" relation="ADV" gloss="" sg="" head="25"/>
@@ -537,7 +537,7 @@
       <word id="3" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" gloss="" sg="" head="2"/>
       <word id="4" form="θανάτῳ" lemma="θάνατος" postag="n-s---md-" relation="ATR" gloss="" sg="" head="3"/>
       <word id="5" form="ἐθηριομάχησε" lemma="θηριομαχέω" postag="v3saia---" relation="PRED_CO" gloss="" sg="" head="14"/>
-      <word id="6" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="14"/>
+      <word id="6" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="14"/>
       <word id="7" form="προσδεθεὶς" lemma="προσδέω1" postag="v-sappmn-" relation="ADV" gloss="" sg="" head="9"/>
       <word id="8" form="ξύλῳ" lemma="ξύλον" postag="n-s---nd-" relation="OBJ" gloss="" sg="" head="7"/>
       <word id="9" form="ἐβρώθη" lemma="βιβρώσκω" postag="v3saip---" relation="PRED_CO" gloss="" sg="" head="14"/>

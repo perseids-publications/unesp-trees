@@ -141,7 +141,7 @@
       <word id="7" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" gloss="" sg="" head="5"/>
       <word id="8" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" gloss="" sg="" head="9"/>
       <word id="9" form="Ἑλλάδα" lemma="Ἑλλάς" postag="n-s---fa-" relation="ATR" sg="" gloss="" head="7"/>
-      <word id="10" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="13"/>
+      <word id="10" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="13"/>
       <word id="11" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="13"/>
       <word id="12" form="Ἀσίᾳ" lemma="Ἄσιος" postag="a-s---fd-" relation="ADV_CO" gloss="" sg="" head="11"/>
       <word id="13" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="19"/>
@@ -237,9 +237,9 @@
       <word id="13" form="θεωμένων" lemma="θεάομαι" postag="v-pppefg-" relation="ATR" sg="" head="14"/>
       <word id="14" form="τύχας" lemma="τύχη" postag="n-p---fa-" relation="ADV" sg="" head="10"/>
       <word id="15" form="τε" lemma="τε" postag="d--------" relation="AuxY" sg="" head="20"/>
-      <word id="16" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="20"/>
+      <word id="16" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="20"/>
       <word id="17" form="προαιρέσεις" lemma="προαίρεσις" postag="n-p---fa-" relation="OBJ_CO" sg="" head="20"/>
-      <word id="18" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="20"/>
+      <word id="18" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="20"/>
       <word id="19" form="ἡλικίας" lemma="ἡλικία" postag="n-p---fa-" relation="OBJ_CO" sg="" head="20"/>
       <word id="20" form="καὶ" lemma="καί" postag="c--------" relation="COORD" sg="" head="22"/>
       <word id="21" form="περιστάσεις" lemma="περίστασις" postag="n-p---fa-" relation="OBJ_CO" sg="" head="20"/>
@@ -249,7 +249,7 @@
       <word id="25" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" sg="" head="27"/>
       <word id="26" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" sg="" head="40"/>
       <word id="27" form="πρῶτον" lemma="πρῶτος" postag="a-s---nn-" relation="SBJ" sg="" head="31"/>
-      <word id="28" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="31"/>
+      <word id="28" form="καὶ" lemma="καὶ" postag="c-------_" relation="AuxY" gloss="" sg="" head="31"/>
       <word id="29" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" sg="" head="30"/>
       <word id="30" form="δεύτερον" lemma="δεύτερος" postag="a-s---nn-" relation="SBJ_CO" sg="" head="31"/>
       <word id="31" form="καὶ" lemma="καί" postag="c--------" relation="COORD" sg="" head="36"/>
