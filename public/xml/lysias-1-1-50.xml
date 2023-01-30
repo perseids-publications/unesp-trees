@@ -246,7 +246,7 @@
       <word id="18" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="19"/>
       <word id="19" form="ὀλιγώρως" lemma="ὀλίγωρος" postag="d-------p" relation="ADV"
             head="20"/>
-      <word id="20" form="διακεῖσθαι" lemma="διακέομαι" postag="v__pne---"
+      <word id="20" form="διακεῖσθαι" lemma="διακέομαι" postag="v--pne---"
             relation="OBJ_CO"
             head="16"/>
       <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="27"/>
