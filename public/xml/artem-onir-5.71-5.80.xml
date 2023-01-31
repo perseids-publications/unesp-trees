@@ -278,7 +278,7 @@
       <word id="4" form="ἰδὼν" lemma="εἶδον" postag="v-sapamn-" relation="SBJ" gloss="" sg="" head="10"/>
       <word id="5" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" gloss="" sg="" head="6"/>
       <word id="6" form="ὄνειρον" lemma="ὄνειρος" postag="n-s---ma-" relation="OBJ" gloss="" sg="" head="4"/>
-      <word id="7" form="μακρογήρως" lemma="μακρόγηρως" postag="a-_---___" relation="ADV_CO" gloss="" sg="" head="8"/>
+      <word id="7" form="μακρογήρως" lemma="μακρόγηρως" postag="a--------" relation="ADV_CO" gloss="" sg="" head="8"/>
       <word id="8" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="10"/>
       <word id="9" form="λιπαρῶς" lemma="λιπαρός" postag="a--------" relation="ADV_CO" gloss="" sg="" head="8"/>
       <word id="10" form="κατεβίωσεν" lemma="καταβιόω" postag="v3saia---" relation="PRED_CO" gloss="" sg="" head="2"/>
