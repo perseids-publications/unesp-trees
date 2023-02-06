@@ -208,7 +208,7 @@
       <word id="9" form="καιρῷ" lemma="καιρός" postag="n-s---md-" relation="ADV_CO" sg="" gloss="" head="5"/>
       <word id="10" form="καὶ" lemma="καί" postag="c--------" relation="COORD" sg="" gloss="" head="2"/>
       <word id="11" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" gloss="" sg="" head="12"/>
-      <word id="12" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxZ" sg="" gloss="" head="14"/>
+      <word id="12" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxZ" sg="" gloss="" head="14"/>
       <word id="13" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" sg="" gloss="" head="10"/>
       <word id="14" form="τῷδε" lemma="ὅδε" postag="p-s---md-" relation="ADV_CO" sg="" gloss="" head="13"/>
       <word id="15" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" sg="" gloss="" head="23"/>
