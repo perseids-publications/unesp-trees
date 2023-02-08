@@ -95,7 +95,7 @@
       <word id="30" form="ὑμᾶς" lemma="σύ" postag="p2p----a-" relation="OBJ" head="31"/>
       <word id="31" form="ὑποδέξομαι" lemma="ὑποδέχομαι" postag="v1sasm---" relation="OBJ_CO" head="28"/>
       <word id="32" form="," lemma="punc1" postag="u--------" relation="AuxX" head="34"/>
-      <word id="33" form="’" lemma="’" postag="_--------" relation="" head="28"/>
+      <word id="33" form="’" lemma="’" postag="u--------" relation="" head="28"/>
       <word id="34" form="ἔπειτα" lemma="ἔπειτα" postag="d--------" relation="COORD" head="1"/>
       <word id="35" form="ἀπεληλακέναι" lemma="ἀπελαύνω" postag="v--rna---" relation="OBJ_CO" head="34"/>
       <word id="36" form="αὐτούς" lemma="αὐτός" postag="p-p---ma-" relation="OBJ" head="35"/>
