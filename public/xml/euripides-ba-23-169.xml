@@ -59,7 +59,7 @@
              subdoc="26-31"
              span="">
       <word id="1" form="ἐπεί" lemma="ἐπεί" postag="d-------_" relation="AuxY" gloss="" sg="" head="12"/>
-      <word id="2" form="μʼ" lemma="ἐγώ" postag="p-s---_g-" relation="ATR" sg="sbs gnt dpd prp pss_bln" gloss="" head="4"/>
+      <word id="2" form="μʼ" lemma="ἐγώ" postag="p-s---mg-" relation="ATR" sg="sbs gnt dpd prp pss_bln" gloss="" head="4"/>
       <word id="3" form="ἀδελφαὶ" lemma="ἀδελφή" postag="n-p---fn-" relation="SBJ" gloss="" sg="nmn dpd" head="12"/>
       <word id="4" form="μητρός" lemma="μήτηρ" postag="n-s---fg-" relation="ATR" gloss="" sg="gnt dpd prp pss_bln" head="3"/>
       <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="8"/>
@@ -189,7 +189,7 @@
       <word id="19" form="τε" lemma="τε" postag="d--------" relation="AuxZ" gloss="" sg="" head="20"/>
       <word id="20" form="μητρὸς" lemma="μήτηρ" postag="n-s---fg-" relation="OBJ" gloss="" sg="gnt dpd abl spr" head="23"/>
       <word id="21" form="ἀπολογήσασθαί" lemma="ἀπολογέομαι" postag="v--anm---" relation="ADV" gloss="" sg="dpd nna" head="1"/>
-      <word id="22" form="μʼ" lemma="ἐγώ" postag="p-s---_a-" relation="SBJ" sg="sbs acc dpd nna" gloss="" head="21"/>
+      <word id="22" form="μʼ" lemma="ἐγώ" postag="p-s---ma-" relation="SBJ" sg="sbs acc dpd nna" gloss="" head="21"/>
       <word id="23" form="ὕπερ" lemma="ὑπέρ" postag="r--------" relation="AuxP" gloss="" sg="" head="21"/>
       <word id="24" form="φανέντα" lemma="φαίνω" postag="v-sappma-" relation="ADV" gloss="" sg="adj atr" head="21"/>
       <word id="25" form="θνητοῖς" lemma="θνητός" postag="a-p---md-" relation="ADV" gloss="" sg="sbs dtv dpd prp int nna" head="24"/>
