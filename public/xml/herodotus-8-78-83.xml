@@ -199,7 +199,7 @@
              span="">
       <word id="1" form="ἡμέας" lemma="ἐγώ" postag="p1p---ma-" relation="OBJ" gloss="" sg="" head="2"/>
       <word id="2" form="στασιάζειν" lemma="στασιάζω" postag="v--pna---" relation="SBJ" gloss="" sg="" head="4"/>
-      <word id="3" form="χρεόν" lemma="χρεών" postag="v-spp_nn_" relation="PNOM" gloss="" sg="" head="4"/>
+      <word id="3" form="χρεόν" lemma="χρεών" postag="x-----n--" relation="PNOM" gloss="" sg="" head="4"/>
       <word id="4" form="ἐστι" lemma="εἰμί" postag="v3spia---" relation="PRED" gloss="" sg="ind stt" head="0"/>
       <word id="5" form="ἔν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="10"/>
       <word id="6" form="τε" lemma="τε" postag="d--------" relation="AuxY" sg="" gloss="" head="10"/>
