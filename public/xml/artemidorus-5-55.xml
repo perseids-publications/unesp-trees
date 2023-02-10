@@ -60,7 +60,7 @@
       <word id="3" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" gloss="" sg="" head="4"/>
       <word id="4" form="ἀγῶνα" lemma="ἀγών" postag="n-s---ma-" relation="OBJ" gloss="" sg="acc dpd rsp" head="1"/>
       <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="AuxZ" gloss="" sg="" head="6"/>
-      <word id="6" form="ἀδόξως" lemma="ἀδόξως" postag="d-------_" relation="ADV" gloss="" sg="mnn" head="1"/>
+      <word id="6" form="ἀδόξως" lemma="ἀδόξως" postag="d--------" relation="ADV" gloss="" sg="mnn" head="1"/>
       <word id="7" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" gloss="" sg="" head="8"/>
       <word id="8" form="σταδίου" lemma="στάδιον" postag="n-s---ng-" relation="ATR" gloss="" sg="gnt dpd prp exp" head="4"/>
       <word id="9" form="·" lemma="" postag="" relation="AuxK" sg="" head="0"/>

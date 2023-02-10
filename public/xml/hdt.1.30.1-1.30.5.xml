@@ -45,7 +45,7 @@
       <word id="16" form="Ἄμασιν" lemma="Ἄμασις" postag="n-s---fa-" relation="ATR" gloss="" sg="" head="15"/>
       <word id="17" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="14"/>
       <word id="18" form="δὴ" lemma="δή" postag="d--------" relation="AuxZ" gloss="" sg="" head="19"/>
-      <word id="19" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxZ" gloss="" sg="" head="21"/>
+      <word id="19" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxZ" gloss="" sg="" head="21"/>
       <word id="20" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" gloss="" sg="" head="17"/>
       <word id="21" form="Σάρδις" lemma="Σάρδεις" postag="n-p---fa-" relation="OBJ_CO" gloss="" sg="" head="20"/>
       <word id="22" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" gloss="" sg="" head="21"/>
@@ -136,7 +136,7 @@
       <word id="10" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="11"/>
       <word id="11" form="ἀπῖκται" lemma="ἀφικνέομαι" postag="v3srie---" relation="PRED" head="0"/>
       <word id="12" form="πολλὸς" lemma="πολύς" postag="a-s---mn-" relation="ATR" head="10"/>
-      <word id="13" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" head="18"/>
+      <word id="13" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxY" gloss="" head="18"/>
       <word id="14" form="σοφίης" lemma="σοφία" postag="n-s---fg-" relation="ADV_CO" head="18"/>
       <word id="15" form="εἵνεκεν" lemma="ἕνεκα" postag="r--------" relation="AuxP" head="11"/>
       <word id="16" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="19"/>

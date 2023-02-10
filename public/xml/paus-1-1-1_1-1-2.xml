@@ -256,7 +256,7 @@
              span="">
       <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="0"/>
       <word id="2" form="νεὼς" lemma="ναῦς" postag="n-s---fg-" relation="ATR" gloss="" sg="gnt dpd prp mtr_cnt" head="7"/>
-      <word id="3" form="καὶ" lemma="καί" postag="d-------_" relation="AuxZ" gloss="" sg="prt" head="5"/>
+      <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" gloss="" sg="prt" head="5"/>
       <word id="4" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" gloss="" sg="" head="6"/>
       <word id="5" form="ἐμὲ" lemma="ἐγώ" postag="p1s---ma-" relation="ADV" gloss="" sg="sbs acc dpd ext tmp tmp_dst" head="4"/>
       <word id="6" form="ἦσαν" lemma="εἰμί" postag="v3piia---" relation="PRED_CO" gloss="" sg="ind stt" head="1"/>
@@ -304,7 +304,7 @@
       <word id="4" form="παῖδες" lemma="παῖς" postag="n-p---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="1"/>
       <word id="5" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" gloss="" sg="" head="4"/>
       <word id="6" form="Θεμιστοκλέους" lemma="Θεμιστοκλέης" postag="n-s---mg-" relation="ATR" gloss="" sg="gnt dpd prp pss_bln" head="4"/>
-      <word id="7" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxY" gloss="" sg="" head="9"/>
+      <word id="7" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxY" gloss="" sg="" head="9"/>
       <word id="8" form="κατελθόντες" lemma="κατέρχομαι" postag="v-papamn-" relation="ADV_CO" gloss="" sg="adj crc" head="9"/>
       <word id="9" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" sg="" head="1"/>
       <word id="10" form="γραφὴν" lemma="γραφή" postag="n-s---fa-" relation="OBJ" gloss="" sg="" head="14"/>

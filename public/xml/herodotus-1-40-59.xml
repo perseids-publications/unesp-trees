@@ -1139,7 +1139,7 @@
             head="9"/>
       <word id="12" form="," lemma="punc1" postag="u--------" relation="APOS" head="1"/>
       <word id="13" form="ἀπ᾽" lemma="ἀπό" postag="r--------" relation="AuxP" head="17"/>
-      <word id="14" form="ἧς" lemma="ὅς" postag="a-s---fg_" relation="ATR" head="16"/>
+      <word id="14" form="ἧς" lemma="ὅς" postag="a-s---fg-" relation="ATR" head="16"/>
       <word id="15" form="ἂν" lemma="ἄν" postag="d--------" relation="AuxY" head="17"/>
       <word id="16" form="ἡμέρης" lemma="ἡμέρη" postag="n-s---fg-" relation="ADV"
             head="13"/>

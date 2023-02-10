@@ -161,7 +161,7 @@
       <word id="8" form="ἅπερ" lemma="ὅσπερ" postag="p-p---na-" relation="AuxC" gloss="" sg="" head="6"/>
       <word id="9" form="κύων" lemma="κύων" postag="n-s---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="15"/>
       <word id="10" form="μέριμναν" lemma="μέριμνα" postag="n-s---fa-" relation="OBJ" gloss="" sg="acc dpd aff" head="12"/>
-      <word id="11" form="οὔποτʼ" lemma="οὔποτε" postag="d-------_" relation="AuxZ" sg="" gloss="" head="12"/>
+      <word id="11" form="οὔποτʼ" lemma="οὔποτε" postag="d--------" relation="AuxZ" sg="" gloss="" head="12"/>
       <word id="12" form="ἐκλείπων" lemma="ἐκλείπω" postag="v-sppamn-" relation="ATR" gloss="" sg="adj atr" head="9"/>
       <word id="13" form="φόνου" lemma="φόνος" postag="n-s---mg-" relation="ATR" gloss="" sg="gnt dpd prp sbj_obj obj" head="10"/>
       <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
@@ -175,16 +175,16 @@
    <sentence id="17" document_id="Aesch.Eum." subdoc="133-134" span="">
       <word id="1" form="ἀνίστω" lemma="ἀνίστημι" postag="v2spme---" relation="PRED_CO" gloss="" sg="ind cmm" head="9"/>
       <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="9"/>
-      <word id="3" form="μή" lemma="μή" postag="d-------_" relation="AuxZ" gloss="" sg="" head="5"/>
+      <word id="3" form="μή" lemma="μή" postag="d--------" relation="AuxZ" gloss="" sg="" head="5"/>
       <word id="4" form="σε" lemma="σύ" postag="p2s----a-" relation="OBJ" gloss="" sg="sbs acc dpd aff" head="5"/>
       <word id="5" form="νικάτω" lemma="νικάω" postag="v3spma---" relation="PRED_CO" gloss="" sg="ind cmm" head="9"/>
       <word id="6" form="πόνος" lemma="πόνος" postag="n-s---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="5"/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="9"/>
-      <word id="8" form="μη-" lemma="μή" postag="d-------_" relation="AuxZ" sg="" gloss="" head="10"/>
+      <word id="8" form="μη-" lemma="μή" postag="d--------" relation="AuxZ" sg="" gloss="" head="10"/>
       <word id="9" form="δʼ" lemma="δέ" postag="c--------" relation="COORD" gloss="" sg="" head="0"/>
       <word id="10" form="ἀγνοήσῃς" lemma="ἀγνοέω" postag="v2sasa---" relation="PRED_CO" gloss="" sg="ind cmm" head="9"/>
       <word id="11" form="πῆμα" lemma="πῆμα" postag="n-s---na-" relation="OBJ" gloss="" sg="acc dpd aff" head="10"/>
-      <word id="12" form="μαλθαχθεῖσʼ" lemma="μαλθάσσω" postag="v-sappfn_" relation="ADV" gloss="" sg="adj crc" head="10"/>
+      <word id="12" form="μαλθαχθεῖσʼ" lemma="μαλθάσσω" postag="v-sappfn-" relation="ADV" gloss="" sg="adj crc" head="10"/>
       <word id="13" form="ὕπνῳ" lemma="ὕπνος" postag="n-s---md-" relation="OBJ" gloss="" sg="dtv dpd prp int agn" head="12"/>
       <word id="14" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
    </sentence>
@@ -205,7 +205,7 @@
    </sentence>
    <sentence id="20" document_id="Aesch.Eum." subdoc="137-139" span="">
       <word id="1" form="σὺ" lemma="σύ" postag="p2s----n-" relation="SBJ" gloss="" sg="" head="15"/>
-      <word id="2" form="δʼ" lemma="δέ" postag="d-------_" relation="AuxY" gloss="" sg="" head="15"/>
+      <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="AuxY" gloss="" sg="" head="15"/>
       <word id="3" form="αἱματηρὸν" lemma="αἱματηρός" postag="a-s---na-" relation="ATR" gloss="" sg="prp" head="4"/>
       <word id="4" form="πνεῦμʼ" lemma="πνεῦμα" postag="n-s---na-" relation="OBJ" sg="acc dpd aff" gloss="" head="5"/>
       <word id="5" form="ἐπουρίσασα" lemma="ἐπουρίζω" postag="v-sapafn-" relation="ADV_CO" gloss="" sg="adj crc" head="15"/>

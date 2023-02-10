@@ -51,7 +51,7 @@
       <word id="17" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="SBJ" sg="dpd vrb as_acc" gloss="" head="3"/>
       <word id="18" form="," lemma="punc1" postag="u--------" relation="AuxX" sg="" head="19"/>
       <word id="19" form="ἀλλὰ" lemma="ἀλλὰ" postag="c--------" relation="COORD" sg="" gloss="" head="9"/>
-      <word id="20" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxZ" sg="" gloss="" head="26"/>
+      <word id="20" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxZ" sg="" gloss="" head="26"/>
       <word id="21" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" sg="" gloss="" head="26"/>
       <word id="22" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" sg="" gloss="" head="26"/>
       <word id="23" form="ταῖς" lemma="ὁ" postag="l-p---fd-" relation="ATR" sg="" gloss="" head="24"/>
@@ -138,7 +138,7 @@
       <word id="1" form="συνείπετο" lemma="συνέπομαι" postag="v3siie---" relation="PRED_CO" gloss="" sg="ind stt" head="2"/>
       <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" gloss="" sg="" head="0"/>
       <word id="3" form="αὐτῷ" lemma="αὐτός" postag="p-s---nd-" relation="OBJ" gloss="" sg="sbs dtv dpd prp ind" head="1"/>
-      <word id="4" form="καὶ" lemma="καὶ" postag="d-------_" relation="AuxZ" gloss="" sg="prt" head="5"/>
+      <word id="4" form="καὶ" lemma="καὶ" postag="d--------" relation="AuxZ" gloss="" sg="prt" head="5"/>
       <word id="5" form="Νικήρατος" lemma="Νικήρατος" postag="n-s---mn-" relation="SBJ" gloss="" sg="nmn dpd" head="1"/>
       <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
    </sentence>
@@ -220,7 +220,7 @@
       <word id="9" form="φανῆναι" lemma="φαίνω" postag="v--anp---" relation="OBJ" gloss="" sg="dpd vrb as_acc" head="1"/>
       <word id="10" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" gloss="" sg="" head="9"/>
       <word id="11" form="ἀνδράσιν" lemma="ἀνήρ" postag="n-p---md-" relation="OBJ" gloss="" sg="dtv dpd ins prp ins_mns" head="19"/>
-      <word id="12" form="ἐκκεκαθαρμένοις" lemma="ἐκκαθαίρω" postag="v-prpemd_" relation="ATR" sg="adj atr" gloss="" head="11"/>
+      <word id="12" form="ἐκκεκαθαρμένοις" lemma="ἐκκαθαίρω" postag="v-prpemd-" relation="ATR" sg="adj atr" gloss="" head="11"/>
       <word id="13" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" gloss="" sg="" head="14"/>
       <word id="14" form="ψυχὰς" lemma="ψυχή" postag="n-p---fa-" relation="ADV" gloss="" sg="acc dpd rsp" head="12"/>
       <word id="15" form="ὥσπερ" lemma="ὥσπερ" postag="c--------" relation="AuxC" gloss="" sg="" head="19"/>
