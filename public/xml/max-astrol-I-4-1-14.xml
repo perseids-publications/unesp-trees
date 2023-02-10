@@ -221,7 +221,7 @@
     <word id='11' form='ὁδὸν' lemma='ὁδός2' postag='n-s---fa-' relation='OBJ' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='12'/>
     <word id='12' form='ἀνύσει' lemma='ἀνύω' postag='v3sfia---' relation='PRED_CO' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='8'/>
     <word id='13' form=',' lemma='punc1' postag='u--------' relation='AuxX' sg='' head='18'/>
-    <word id='14' form='λαθραίως' lemma='λαθραίως' postag='d-------_' relation='ADV_CO' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='15'/>
+    <word id='14' form='λαθραίως' lemma='λαθραίως' postag='d--------' relation='ADV_CO' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='15'/>
     <word id='15' form='καὶ' lemma='καί' postag='c--------' relation='COORD' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='18'/>
     <word id='16' form='μετὰ' lemma='μετά' postag='r--------' relation='AuxP' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='15'/>
     <word id='17' form='σιγῆς' lemma='σιγή' postag='n-s---fg-' relation='ADV' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='16'/>
@@ -272,7 +272,7 @@
     <word id='8' insertion_id='0001e' artificial='elliptic' relation='ADV' lemma='εἰμί' postag='v-sppafg-' gloss='' form='οὔσης' sg='' head='5'/>
   </sentence>
   <sentence id='17' document_id='Max.Astrol.I.IV' subdoc='10.2' span=''>
-    <word id='1' form='καὶ' lemma='καὶ' postag='d-------_' relation='AuxY' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='11'/>
+    <word id='1' form='καὶ' lemma='καὶ' postag='d--------' relation='AuxY' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='11'/>
     <word id='2' form='γὰρ' lemma='γάρ' postag='d--------' relation='AuxY' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='prt' head='11'/>
     <word id='3' form='ἡ' lemma='ὁ' postag='l-s---fn-' relation='SBJ' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='4'/>
     <word id='4' form='ὁδὸς' lemma='ὁδός1' postag='n-s---mn-' relation='SBJ' gloss='' alternateGloss='' semanticRole='' include='' multiword='' notes='' sg='' head='14'/>
@@ -335,10 +335,10 @@
     <word id='3' form='·' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='18'/>
     <word id='4' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' sg='' gloss='' head='12'/>
     <word id='5' form='στρατιὰν' lemma='στρατιά' postag='n-s---fa-' relation='OBJ_CO' sg='' gloss='' head='4'/>
-    <word id='6' form='καὶ' lemma='καὶ' postag='d-------_' relation='AuxY' sg='' gloss='' head='12'/>
+    <word id='6' form='καὶ' lemma='καὶ' postag='d--------' relation='AuxY' sg='' gloss='' head='12'/>
     <word id='7' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' sg='' gloss='' head='12'/>
     <word id='8' form='πόλεμον' lemma='πόλεμος' postag='n-s---ma-' relation='OBJ_CO' sg='' gloss='' head='7'/>
-    <word id='9' form='καὶ' lemma='καὶ' postag='d-------_' relation='AuxY' sg='' gloss='' head='12'/>
+    <word id='9' form='καὶ' lemma='καὶ' postag='d--------' relation='AuxY' sg='' gloss='' head='12'/>
     <word id='10' form='ἐπὶ' lemma='ἐπί' postag='r--------' relation='AuxP' sg='' gloss='' head='12'/>
     <word id='11' form='κυνηγεσίαν' lemma='κυνηγεσία' postag='n-s---fa-' relation='OBJ_CO' sg='' gloss='' head='10'/>
     <word id='12' form='καὶ' lemma='καί' postag='c--------' relation='COORD' sg='' gloss='' head='16'/>
@@ -364,7 +364,7 @@
     <word id='6' form='ἢ' lemma='ἤ1' postag='c--------' relation='AuxY' gloss='' sg='' head='8'/>
     <word id='7' form='τρίγωνος' lemma='τρίγωνος' postag='a-s---fn-' relation='ATR_CO' gloss='' sg='' head='8'/>
     <word id='8' form='ἢ' lemma='ἤ1' postag='c--------' relation='COORD' sg='' gloss='' head='1'/>
-    <word id='9' form='διάμετρος' lemma='διάμετρος, ον' postag='a-s---fn_' relation='ATR_CO' sg='' gloss='' head='8'/>
+    <word id='9' form='διάμετρος' lemma='διάμετρος, ον' postag='a-s---fn-' relation='ATR_CO' sg='' gloss='' head='8'/>
     <word id='10' form='καλὴν' lemma='καλός' postag='a-s---fa-' relation='ATR' sg='' gloss='' head='12'/>
     <word id='11' form='τὴν' lemma='ὁ' postag='l-s---fa-' relation='ATR' sg='' gloss='' head='12'/>
     <word id='12' form='ἀποδημίαν' lemma='ἀποδημία' postag='n-s---fa-' relation='OBJ' sg='' gloss='' head='13'/>
@@ -380,7 +380,7 @@
     <word id='6' form='ἢ' lemma='ἤ1' postag='c--------' relation='AuxY' gloss='' sg='' head='8'/>
     <word id='7' form='τρίγωνος' lemma='τρίγωνος' postag='a-s---fn-' relation='ATR_CO' gloss='' sg='' head='8'/>
     <word id='8' form='ἢ' lemma='ἤ1' postag='c--------' relation='COORD' gloss='' sg='' head='12'/>
-    <word id='9' form='διάμετρος' lemma='διάμετρος, ον' postag='a-s---fn_' relation='ATR_CO' gloss='' sg='' head='8'/>
+    <word id='9' form='διάμετρος' lemma='διάμετρος, ον' postag='a-s---fn-' relation='ATR_CO' gloss='' sg='' head='8'/>
     <word id='10' form='κακήν' lemma='κακός' postag='a-s---fa-' relation='OBJ' gloss='' sg='' head='13'/>
     <word id='11' form='.' lemma='punc1' postag='u--------' relation='AuxK' sg='' head='0'/>
     <word id='12' insertion_id='0000e' artificial='elliptic' relation='SBJ' lemma='Σελήνη' postag='n-s---fn-' gloss='' form='Σελήνη' sg='' head='13'/>
