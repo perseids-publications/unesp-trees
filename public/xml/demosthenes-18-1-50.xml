@@ -462,7 +462,7 @@
       <word id="13" form="ἂν" lemma="ἐάν" postag="c--------" relation="AuxC" head="38"/>
       <word id="14" form="ὑπ᾽" lemma="ὑπό" postag="r--------" relation="AuxP" head="18"/>
       <word id="15" form="ἐχθροῦ" lemma="ἐχθρός" postag="a-s---mg-" relation="ADV" head="14"/>
-      <word id="16" form="τῷ" lemma="τις" postag="p-s---md-" relation="OBJ" head="18"/>
+      <word id="16" form="τῷ" lemma="τις" postag="p-s---md-" relation="OBJ" head="18"/>
       <word id="17" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="18"/>
       <word id="18" form="συμβαίνῃ" lemma="συμβαίνω" postag="v3spsa---" relation="ADV" head="13"/>
       <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
