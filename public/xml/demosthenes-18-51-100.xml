@@ -4567,7 +4567,7 @@
       <word id="17" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="18" form="φέρειν" lemma="φέρω" postag="v--pna---" relation="SBJ_CO" head="19"/>
       <word id="19" form="δ᾽" lemma="δέ" postag="c--------" relation="COORD" head="1"/>
-      <word id="20" form="ἅν" lemma="ὅς" postag="p-s---fa-" relation="OBJ" head="23"/>
+      <word id="20" form="ἅν" lemma="ὅς" postag="p-s---fa-" relation="OBJ" head="23"/>
       <word id="21" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="22"/>
       <word id="22" form="θεὸς" lemma="θεός" postag="n-s---mn-" relation="SBJ" head="23"/>
       <word id="23" form="διδῷ" lemma="δίδωμι" postag="v3spsa---" relation="OBJ" head="18"/>

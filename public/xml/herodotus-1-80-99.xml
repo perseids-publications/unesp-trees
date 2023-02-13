@@ -5541,7 +5541,7 @@
       <word id="2" form="οὕτω" lemma="οὕτως" postag="d--------" relation="ADV" head="13"/>
       <word id="3" form="ἥ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5"/>
       <word id="4" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="7"/>
-      <word id="5" form="χώρα" lemma="χώρα" postag="n-s---fn-" relation="SBJ" head="6"/>
+      <word id="5" form="χώρα" lemma="χώρα" postag="n-s---fn-" relation="SBJ" head="6"/>
       <word id="6" form="εὐνομήσεται" lemma="εὐνομέομαι" postag="v3sfim---"
             relation="PRED_CO"
             head="7"/>
