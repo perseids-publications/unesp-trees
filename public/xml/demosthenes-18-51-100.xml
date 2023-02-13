@@ -622,7 +622,7 @@
       <word id="5" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="11"/>
       <word id="6" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="7"/>
       <word id="7" form="εὐθύνας" lemma="εὔθυνα" postag="n-p---fa-" relation="OBJ" head="8"/>
-      <word id="8" form="δῷ" lemma="δίδωμι" postag="v3sasa---" relation="ADV" head="5"/>
+      <word id="8" form="δῷ" lemma="δίδωμι" postag="v3sasa---" relation="ADV" head="5"/>
       <word id="9" form="στεφανοῦν" lemma="στεφανόω" postag="v--pna---" relation="OBJ_CO" head="11"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="11" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="4"/>
