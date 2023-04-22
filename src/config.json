@@ -62,10 +62,10 @@
           ],
           "sections": [
             { 
-              "locus": "epicteto.1.4.18-1-4-27",
+              "locus": "epicteto.1.4.18-1.4.27",
               "path": "epict-1-4-18-1-4-27",
               "xml": "epict-1-4-18-1-4-27.xml",
-              "link": "",
+              "link": "https://sosol.perseids.org/sosol/publications/70945/treebank_cite_identifiers/80940/preview",
               "notes": "" ,
               "chunks": { "start": 1, "end": 16 }	   	    
               }
