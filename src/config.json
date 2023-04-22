@@ -42,8 +42,8 @@
           "sections": [
             { 
               "locus": "fab.54",
-              "path": "esopo-halm-54",
-              "xml": "esopo-halm-54.xml",
+              "path": "54-esopo-halm",
+              "xml": "54-esopo-halm.xml",
               "link": "",
               "notes": "",
               "chunks": { "start": 1, "end": 9 }
