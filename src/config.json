@@ -47,30 +47,33 @@
               "link": "",
               "notes": "",
               "chunks": { "start": 1, "end": 9 }
-  }
+		    
+             }
           ]
         },   
-              {
+	      
+      {
           "path": "Murilo G. Alves",
           "author": "Epicteto",
           "work": "Discursos", 
-          "editors": "Murilo G. Alves",
+          "editors": [
+            "Murilo G. Alves",
+            "Anise Ferreira (rev.)"
+          ],
           "sections": [
             { 
-              "locus": "epicteto.1.4.18-1.4.27",
+              "locus": "epicteto.1.4.18-1-4-27",
               "path": "epict-1-4-18-1-4-27",
               "xml": "epict-1-4-18-1-4-27.xml",
               "link": "",
               "notes": "" ,
-              "chunks": { "start": 1, "end": 16 }
-		   	    
-               }
+              "chunks": { "start": 1, "end": 16 }	   	    
+              }
           ]
         }
       ]
     },
-			
-			{
+    {
       "title": "Coleção  2017-2022",
       "publications": [
         {
