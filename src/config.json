@@ -38,7 +38,7 @@
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
           "work": ["Fabulae Aesopicae Collectae, Halm ", " Ἀνὴρ καὶ Μοιχός"],
-          "editors": "M.Celeste C.Dezotti",
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"],
           "sections": [
             { 
               "locus": "fab.54",
@@ -92,7 +92,7 @@
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
           "work": ["Fabulae Aesopicae Collectae, Halm", " Ἀνὴρ, Ἵππος καὶ Πῶλος "],
-          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)",]
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"],
           "sections": [
             { 
               "locus": "fab.51",
