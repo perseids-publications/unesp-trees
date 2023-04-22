@@ -37,11 +37,11 @@
         {
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
-          "work": "Fabulae Aesopicae Collectae, Halm",
+          "work": ["Fabulae Aesopicae Collectae, Halm" "Ἀνὴρ καὶ Μοιχός"],
           "editors": "M.Celeste C.Dezotti",
           "sections": [
             { 
-              "locus": "fab.54:Ἀνὴρ καὶ Μοιχός",
+              "locus": "fab.54",
               "path": "54-esopo-halm",
               "xml": "54-esopo-halm.xml",
               "link": "",
