@@ -52,7 +52,62 @@
           ]
         },   
 	      
+       {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": "Fabulae Aesopicae Collectae, Halm ed.",
+          "editors": "M.Celeste C.Dezotti",
+          "sections": [
+            { 
+              "locus": "fab.53: Ἀνὴρ καὶ Κύκλωψ",
+              "path": "53-esopo-halm",
+              "xml": "53-esopo-halm.xml",
+              "link": "",
+              "notes": "Ἀνὴρ καὶ Κύκλωψ",
+              "chunks": { "start": 1, "end": 7 }
+		    
+             }
+          ]
+        },   
+       {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": "Fabulae Aesopicae Collectae, Halm ed.",
+          "editors": "M.Celeste C.Dezotti",
+          "sections": [
+            { 
+              "locus": "fab.52: Ἀνὴρ καὶ Γυνή ",
+              "path": "52-esopo-halm",
+              "xml": "52-esopo-halm.xml",
+              "link": "",
+              "notes": "Ἀνὴρ καὶ Γυνή",
+              "chunks": { "start": 1, "end": 7 }
+		    
+             }
+          ]
+        },   
+      
+      
       {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": "Fabulae Aesopicae Collectae, Halm ed.",
+          "editors": "M.Celeste C.Dezotti",
+          "sections": [
+            { 
+              "locus": "fab.51: Ἀνὴρ, Ἵππος καὶ Πῶλος ",
+              "path": "51-esopo-halm",
+              "xml": "51-esopo-halm.xml",
+              "link": "",
+              "notes": " Ἀνὴρ, Ἵππος καὶ Πῶλος",
+              "chunks": { "start": 1, "end": 6 }
+		    
+             }
+          ]
+        },   
+
+
+{
           "path": "Murilo G. Alves",
           "author": "Epicteto",
           "work": "Discursos", 
