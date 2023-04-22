@@ -37,7 +37,7 @@
         {
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
-          "work": ["Fabulae Aesopicae Collectae, Halm (ed.) ", " Ἀνὴρ καὶ Μοιχός"],
+          "work": ["Fabulae Aesopicae Collectae, Halm ", " Ἀνὴρ καὶ Μοιχός"],
           "editors": "M.Celeste C.Dezotti",
           "sections": [
             { 
@@ -55,8 +55,8 @@
        {
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
-          "work": ["Fabulae Aesopicae Collectae, Halm (ed.) ", "Ἀνὴρ καὶ Κύκλωψ"],
-          "editors": "M.Celeste C.Dezotti",
+          "work": ["Fabulae Aesopicae Collectae, Halm ", "Ἀνὴρ καὶ Κύκλωψ"],
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"], 
           "sections": [
             { 
               "locus": "fab.53",
@@ -72,11 +72,11 @@
        {
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
-          "work": "Fabulae Aesopicae Collectae, Halm ed.",
-          "editors": "M.Celeste C.Dezotti",
+          "work": ["Fabulae Aesopicae Collectae, Halm", " Ἀνὴρ καὶ Γυνή"],
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"], 
           "sections": [
             { 
-              "locus": "fab.52: Ἀνὴρ καὶ Γυνή ",
+              "locus": "fab.52",
               "path": "52-esopo-halm",
               "xml": "52-esopo-halm.xml",
               "link": "",
@@ -91,11 +91,11 @@
       {
           "path": "M. Celeste C. Dezotti",
           "author": "Esopo",
-          "work": "Fabulae Aesopicae Collectae, Halm ed.",
-          "editors": "M.Celeste C.Dezotti",
+          "work": ["Fabulae Aesopicae Collectae, Halm", " Ἀνὴρ, Ἵππος καὶ Πῶλος "],
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)",]
           "sections": [
             { 
-              "locus": "fab.51: Ἀνὴρ, Ἵππος καὶ Πῶλος ",
+              "locus": "fab.51",
               "path": "51-esopo-halm",
               "xml": "51-esopo-halm.xml",
               "link": "",
