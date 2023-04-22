@@ -14,6 +14,48 @@
 
 
 {
+      "title": "Mutirão de anotação  2022-2023",
+      "publications": [
+        {
+          "path": "Anise Ferreira",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro I", 
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "1.proemio",
+              "path": "artem-onir-1-proemio",
+              "xml": "artem-onir-1-proemio.xml",
+              "link": "",
+              "notes": "A tradução alinhada grego-português está disponível no link acima" ,
+              "chunks": { "start": 1, "end": 12 }
+		   	    
+            }
+          ]
+        },
+        
+        {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": "Fabulae Aesopicae Collectae, Halm",
+          "editors": "M.Celeste C.Dezotti",
+          "sections": [
+            { 
+              "locus": "54",
+              "path": "esopo-halm-54",
+              "xml": "esopo-halm-54.xml",
+              "link": "",
+              "notes": "",
+              "chunks": { "start": 1, "end": 9 }
+		   	    
+               }        
+            ]
+          },
+			
+			
+			
+			
+			{
       "title": "Coleção  2017-2022",
       "publications": [
         {
