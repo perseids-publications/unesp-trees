@@ -29,7 +29,7 @@
       <address>lucascdz@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/lucascdz</uri>
   </annotator>
-   <sentence id="1" document_id="Just." subdoc="18.5.1-2" span="">
+   <sentence id="1" document_id="Justinus, Marcus Junianus" subdoc="18.5.1-2" span="">
       <word id="1" form="Primus" lemma="primus" postag="a-s---mn-" relation="ATR" head="3"/>
       <word id="2" form="illis" lemma="ille" postag="p-p---md-" relation="ADV" head="7"/>
       <word id="3" form="adpulsus" lemma="appulsus2" postag="n-s---mn-" relation="PNOM" head="7"/>
