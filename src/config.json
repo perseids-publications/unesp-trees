@@ -105,7 +105,81 @@
              }
           ]
         },   
-
+  {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  "Ἀνὴρ Ἀθηναῖος καὶ Θηβαῖος"], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.50",
+              "path": "50-esopo-halm",
+              "xml": "50-esopo-halm.xml",
+              "link": "",
+              "notes": " Ἀνὴρ, Ἵππος καὶ Πῶλος",
+              "chunks": { "start": 1, "end": 11 }
+		    
+             }
+          ]
+        },   
+        
+        
+         {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  "Ἄλλως - Ἀλώπηξ"], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. de anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.47b",
+              "path": "47b-esopo-halm",
+              "xml": "47b-esopo-halm.xml",
+              "link": "",
+              "notes": "Ἄλλως - Ἀλώπηξ ",
+              "chunks": { "start": 1, "end": 3 }
+        
+       }
+          ]
+        },   
+          
+           {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  "Ἄλλως - Ἀλώπηξ"], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.45b",
+              "path": "45b-esopo-halm",
+              "xml": "45b-esopo-halm.xml",
+              "link": "",
+              "notes": "Ἄλλως - Ἀλώπηξ ",
+              "chunks": { "start": 1, "end":5  }
+		    
+             }
+          ]
+        },   
+	      
+	   {
+          "path": "Dezotti e Frutuoso",
+          "author": "Justinus",
+          "work": ["Epitomae Historicae Philipicae"], 
+          "editors": ["Lucas Dezotti", "Jessica Frutuoso"],
+          "sections": [
+            { 
+              "locus": "fab.45b",
+              "path": "justino-18-5",
+              "xml": "justino-18-5.xml",
+              "link": "",
+              "notes": "",
+              "chunks": { "start": 1, "end":14  }
+		    
+             }
+          ]
+        },       
+	      
+	      
+	      
 
 {
           "path": "Murilo G. Alves",
