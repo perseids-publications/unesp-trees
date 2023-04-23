@@ -159,6 +159,78 @@
              }
           ]
         },   
+
+          {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  ""], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.43b",
+              "path": "43b-esopo-halm",
+              "xml": "43b-esopo-halm.xml",
+              "link": "",
+              "notes": " ",
+              "chunks": { "start": 1, "end":6  }
+		    
+             }
+          ]
+        },   
+          
+          {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  ""], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.42b",
+              "path": "42b-esopo-halm",
+              "xml": "42b-esopo-halm.xml",
+              "link": "",
+              "notes": " ",
+              "chunks": { "start": 1, "end":3  }
+		    
+             }
+          ]
+        },   
+          
+          {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  " Ἀλώπηξ καὶ Λέων"], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.41",
+              "path": "41-esopo-halm",
+              "xml": "41-esopo-halm.xml",
+              "link": "",
+              "notes": " Ἀλώπηξ καὶ Λέων",
+              "chunks": { "start": 1, "end":5  }
+		    
+             }
+          ]
+        },   
+          
+           {
+          "path": "M. Celeste C. Dezotti",
+          "author": "Esopo",
+          "work": ["Fabulae Aesopicae Collectae, Halm",  " Ἀλώπηξ καὶ Λέων"], 
+          "editors": ["M.Celeste C.Dezotti", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "fab.40",
+              "path": "40-esopo-halm",
+              "xml": "40-esopo-halm.xml",
+              "link": "",
+              "notes": " Ἀλώπηξ καὶ Λέων",
+              "chunks": { "start": 1, "end":4  }
+          
+        }
+          ]
+        },     
 	      
 	   {
           "path": "Dezotti e Frutuoso",
