@@ -286,24 +286,7 @@
           ]
         },             
 	      
-{
-          "path": "Dezotti e Frutuoso",
-          "author": "Justinus",
-          "work": ["Epitomae Historicae Philipicae"], 
-          "editors": ["Lucas Dezotti", "Jessica Frutuoso"],
-          "sections": [
-            { 
-              "locus": "just.18.4-18.6",
-              "path": "just-18-4-18-6",
-              "xml": "just-18-4-18-6.xml",
-              "link": "",
-              "notes": "Anotação versão TEI/XML ",
-              "chunks": { "start": 1, "end":34  }
-		    
-             }
-          ]
-        },            
-	      
+
 	      
 	      
 {
