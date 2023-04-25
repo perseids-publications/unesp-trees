@@ -236,7 +236,7 @@
 {
           "path": "Anderson Moris",
           "author": "Heráclito, paradoxógrafo",
-          "work": ["Περὶ ἀπίστων", "Περὶ Μεδούσης, Περὶ Κενταύρων, Περὶ Κύκλωπος"], 
+          "work": ["Περὶ ἀπίστων": , "Περὶ Μεδούσης , Κενταύρων , Κύκλωπος"], 
           "editors": ["Anderson Moris", "AF (rev. anot.)"],
           "sections": [
             { 
