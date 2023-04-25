@@ -231,6 +231,27 @@
         }
           ]
         },     
+
+
+{
+          "path": "Anderson Moris",
+          "author": "Heráclito, paradoxógrafo",
+          "work": ["Περὶ ἀπίστων", "Περὶ Μεδούσης, Περὶ Κενταύρων, Περὶ Κύκλωπος"], 
+          "editors": ["Anderson Moris", "AF (rev. anot.)"],
+          "sections": [
+            { 
+              "locus": "1,5,11",
+              "path": "heracl-paradox-1-5-11",
+              "xml": "heracl-paradox-1-5-11.xml",
+              "link": "",
+              "notes": "Περὶ Μεδούσης, Περὶ Κενταύρων, Περὶ Κύκλωπος",
+              "chunks": { "start": 1, "end":16  }
+          
+        }
+          ]
+        },     
+
+
 {
           "path": "Dezotti e Frutuoso",
           "author": "Justino",
