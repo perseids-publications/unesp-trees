@@ -77,8 +77,8 @@
         <word id="8" form="αὐτὴν" lemma="αὐτός" postag="p-s---fa-" relation="OBJ" gloss="" sg="   " head="7"/>
         <word id="9" form="ἔκπληκτον" lemma="ἔκπληκτος" postag="a-s---ma-" relation="PNOM" gloss="" sg="" head="10"/>
         <word id="10" form="γενόμενον" lemma="γίγνομαι" postag="v-sapmma-" relation="ADV" gloss="" sg="  " head="5"/>
-        <word id="11" form="οἷον" lemma="οἷος" postag="a-s---na-" relation="SBJ" gloss="" sg="" head="12"/>
-        <word id="12" form="ἀπολιθοῦσθαι" lemma="ἀπολιθόομαι" postag="v--pne---" relation="PNOM" gloss="" sg="" head="10"/>
+        <word id="11" form="οἷον" lemma="οἷος" postag="a-s---na-" relation="AuxZ" gloss="" sg="" head="12"/>
+        <word id="12" form="ἀπολιθοῦσθαι" lemma="ἀπολιθόομαι" postag="v--pne---" relation="APOS" gloss="" sg="" head="9"/>
         <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" sg="" head="0"/>
     </sentence>
     <sentence id="5" document_id="Heraclit.Par." subdoc="1.4" span="">
