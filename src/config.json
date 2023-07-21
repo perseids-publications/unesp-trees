@@ -26,7 +26,7 @@
               "locus": "1.proemio",
               "path": "artem-onir-1-proemio",
               "xml": "artem-onir-1-proemio.xml",
-              "link": "https://www.perseids.org/tools/arethusa/app/#/perseids?chunk=1&mode=viewer&doc=80751",
+              "link": "",
               "notes": "" ,
               "chunks": { "start": 1, "end": 12 }
 		   	    
@@ -344,7 +344,7 @@
               "locus": "5.proemio",
               "path": "artem-onir-5-proemio",
               "xml": "artem-onir-5-proemio.xml",
-              "link": "https://sosol.perseids.org/sosol/publications/65929/alignment_cite_identifiers/76180/preview",
+              "link": "https://ugarit.ialigner.com/text.php?id=30471",
               "notes": "A tradução alinhada grego-português está disponível no link acima" ,
               "chunks": { "start": 1, "end": 6 }
 		   	    
