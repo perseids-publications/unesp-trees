@@ -26,7 +26,7 @@
   
    <sentence id="180"
              document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1"
-             subdoc="3-31"
+             subdoc="3.31-3.60"
              span="">
       <word id="1" form="πίνειν" lemma="πίνω" postag="v--pna---" relation="SBJ" gloss="" sg="" head="7"/>
       <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" gloss="" sg="" head="0"/>
