@@ -22,9 +22,9 @@
           "editors": "Anise Ferreira",
           "sections": [
             { 
-              "locus": "3.prol-3.60",
-              "path": "artem-onir-3.prol-3.60",
-              "xml": "artem-onir-3.prol-3.60.xml",
+              "locus": "3.prol-3.10",
+              "path": "artem-onir-3.prol-3.10",
+              "xml": "artem-onir-3.prol-3.10.xml",
               "link": "",
               "notes": "" ,
               "chunks": { "start": 1, "end": 410 }
