@@ -13,26 +13,6 @@
 		}, 
 
 {
-      "title": "Anotações de 2023-2025",
-      "publications": [
-        {
-          "path": "Anise Ferreira",
-          "author": "Artemidoro de Daldis",
-          "work": "Oneirocritica-Livro III", 
-          "editors": "Anise Ferreira",
-          "sections": [
-            { 
-              "locus": "3.prol-3.10",
-              "path": "artem-onir-3.prol-3.10",
-              "xml": "artem-onir-3.prol-3.10.xml",
-              "link": "",
-              "notes": "" ,
-              "chunks": { "start": 1, "end": 410 }
-		   	    
-            }
-		  ]
-        },
-{
       "title": "Mutirão de anotação 2022-2023",
       "publications": [
         {
