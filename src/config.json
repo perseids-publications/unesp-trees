@@ -56,12 +56,12 @@
           "editors": "Anise Ferreira",
           "sections": [
             { 
-              "locus": "3.31-3.60",
-              "path": "artem-onir-3.31-3.60",
-              "xml": "artem-onir-3.31-3.60.xml",
+              "locus": "3.31-3.39",
+              "path": "artem-onir-3.31-3.39",
+              "xml": "artem-onir-3.31-3.39.xml",
               "link": "",
               "notes": "",
-              "chunks": { "start": 180, "end": 410 }
+              "chunks": { "start": 180, "end": 233 }
         }
       ]
     }
