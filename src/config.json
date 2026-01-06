@@ -28,12 +28,28 @@
           "link": "",
           "notes": "",
           "chunks": { "start": 1, "end": 57 }
+          }
+          ]
+        },
+        
+        {
+          "path": "Anise Ferreira",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro III",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "onir-3.11-3.30",
+              "path": "artem-onir-3.11-3.30",
+              "xml": "artem-onir-3.11-3.30.xml",
+              "link": "",
+              "notes": "",
+              "chunks": { "start": 59, "end": 179 }
         }
       ]
     }
   ]
 }
-
  
 , {
 
