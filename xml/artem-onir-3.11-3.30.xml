@@ -26,7 +26,7 @@
    
    <sentence id="58"
              document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1"
-             subdoc="3.11"
+             subdoc="3.11-3.30"
              span="">
       <word id="1" form="Κροκόδειλος" lemma="κροκόδειλος" postag="n-s---mn-" relation="SBJ" gloss="" sg="" head="9"/>
       <word id="2" form="πειρατὴν" lemma="πειρατής" postag="n-s---ma-" relation="OBJ_CO" gloss="" sg="" head="3"/>
