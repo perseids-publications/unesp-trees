@@ -1,6 +1,6 @@
 {
 	"title": "Coleção dos Projetos Abertos em Letras Clássicas Digitais",
-	"subtitle": "Organizada pela profª drª Anise D'Orange Ferreira, FCLAr/UNESP",
+	"subtitle": "Organizada pela profª Drª Anise D'Orange Ferreira, FCLAr/UNESP",
 	"doi": "",
 	"copyright": "The Perseids Projet para os Projetos Abertos em Letras Clássicas Digitais - CC BY-NC-SA",
 	"report": "https://github.com/aniseferreira/treebank-template/issues",
@@ -22,9 +22,9 @@
           "editors": "Anise Ferreira",
           "sections": [
             { 
-              "locus": "3.prol.-3.60",
-              "path": "artem-onir-3.prol.-3.60",
-              "xml": "artem-onir-3.prol.-3.60.xml",
+              "locus": "3.prol-3.60",
+              "path": "artem-onir-3.prol-3.60",
+              "xml": "artem-onir-3.prol-3.60.xml",
               "link": "",
               "notes": "" ,
               "chunks": { "start": 1, "end": 410 }
