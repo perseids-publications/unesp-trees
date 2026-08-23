@@ -61,12 +61,11 @@
               "xml": "artem-onir-3.31-3.39.xml",
               "link": "",
               "notes": "",
-              "chunks": { "start": 180, "end": 233 }
-        }
-      ]
-    },
-
-		{
+       }
+          ]
+        },
+        
+        {
           "path": "Anise Ferreira",
           "author": "Artemidoro de Daldis",
           "work": "Oneirocritica-Livro III",
