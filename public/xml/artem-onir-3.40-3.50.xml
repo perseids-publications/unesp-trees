@@ -1043,7 +1043,7 @@
       <word id="5" form="αὐτοῖς" lemma="αὐτός" postag="a-p---md-" relation="OBJ" head="4" />
       <word id="6" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="290" document_id="Artem.Onir.3.50" subdoc="3.50.1" span="">
+   <sentence id="290" document_id="Artem.Onir.3.50.1" subdoc="3.50.1" span="">
       <word id="1" form="Σκίλλα" lemma="Σκίλλα" postag="n-s---fn-" relation="SBJ" sg="" head="5" />
       <word id="2" form="γεωργοῖς" lemma="γεωργός" postag="n-p---md-" relation="ADV" sg="" head="5" />
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" sg="" head="14" />
@@ -1070,7 +1070,7 @@
       <word id="24" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="0" />
       <word id="25" insertion_id="0015e" artificial="elliptic" relation="PRED_CO" form="[0]" sg="" head="14" />
    </sentence>
-   <sentence id="291" document_id="Artem.Onir.3.50" subdoc="3.50.2" span="">
+   <sentence id="291" document_id="Artem.Onir.3.50.2" subdoc="3.50.2" span="">
       <word id="1" form="ἀγαθὴ" lemma="ἀγαθός" postag="a-s---fn-" relation="PRED" sg="" head="4" />
       <word id="2" form="δʼ" lemma="δέ" postag="g--------" relation="COORD" sg="" head="0" />
       <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" gloss="" sg="" head="4" />
