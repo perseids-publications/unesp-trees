@@ -1013,7 +1013,7 @@
       <word id="40" form="δρᾶσαι" lemma="δράω" postag="v--ana---" relation="OBJ" sg="" head="39" />
       <word id="41" form="·" lemma="·" postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="287" document_id="Artem.Onir.3.49.2" subdoc="" span="">
+   <sentence id="287" document_id="Artem.Onir.3.49.2" subdoc="3.49.2" span="">
       <word id="1" form="οὐδὲν" lemma="οὐδείς" postag="p-s---na-" relation="AuxZ" sg="" head="7" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" sg="" head="7" />
       <word id="3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" sg="" head="4" />
@@ -1023,7 +1023,7 @@
       <word id="7" form="ἔχουσι" lemma="ἔχω" postag="v3ppia---" relation="PRED" sg="" head="0" />
       <word id="8" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="4" />
    </sentence>
-   <sentence id="288" document_id="Artem.Onir.3.49.3" subdoc="" span="">
+   <sentence id="288" document_id="Artem.Onir.3.49.3" subdoc="3.49.3" span="">
       <word id="1" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" gloss="" sg="" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" gloss="" sg="" head="6" />
       <word id="3" form="νοσοῦντας" lemma="νοσέω" postag="v-pppama-" relation="SBJ" gloss="" sg="" head="5" />
@@ -1035,7 +1035,7 @@
       <word id="9" form="ἀποθανεῖσθαι" lemma="ἀποθνήσκω" postag="v--fnm---" relation="OBJ_CO" gloss="" sg="" head="7" />
       <word id="10" form="·" lemma="·" postag="" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="289" document_id="Artem.Onir.3.49.4" subdoc="" span="">
+   <sentence id="289" document_id="Artem.Onir.3.49.4" subdoc="3.49.4" span="">
       <word id="1" form="τροφῆς" lemma="τροφεύς" postag="n-s---fg-" relation="OBJ" head="4" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="4" />
       <word id="3" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4" />
@@ -1043,7 +1043,7 @@
       <word id="5" form="αὐτοῖς" lemma="αὐτός" postag="a-p---md-" relation="OBJ" head="4" />
       <word id="6" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="290" document_id="Artem.Onir.3.50" subdoc="1" span="">
+   <sentence id="290" document_id="Artem.Onir.3.50" subdoc="3.50.1" span="">
       <word id="1" form="Σκίλλα" lemma="Σκίλλα" postag="n-s---fn-" relation="SBJ" sg="" head="5" />
       <word id="2" form="γεωργοῖς" lemma="γεωργός" postag="n-p---md-" relation="ADV" sg="" head="5" />
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" sg="" head="14" />
@@ -1070,7 +1070,7 @@
       <word id="24" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="0" />
       <word id="25" insertion_id="0015e" artificial="elliptic" relation="PRED_CO" form="[0]" sg="" head="14" />
    </sentence>
-   <sentence id="291" document_id="Artem.Onir.3.50" subdoc="2" span="">
+   <sentence id="291" document_id="Artem.Onir.3.50" subdoc="3.50.2" span="">
       <word id="1" form="ἀγαθὴ" lemma="ἀγαθός" postag="a-s---fn-" relation="PRED" sg="" head="4" />
       <word id="2" form="δʼ" lemma="δέ" postag="g--------" relation="COORD" sg="" head="0" />
       <word id="3" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" gloss="" sg="" head="4" />
@@ -1084,14 +1084,14 @@
       <word id="11" form="οὖσι" lemma="εἰμί" postag="v-pppamd-" relation="ATR" sg="" head="5" />
       <word id="12" form="·" lemma="·" postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="292" document_id="Artem.Onir.3.50.3" subdoc="" span="">
+   <sentence id="292" document_id="Artem.Onir.3.50.3" subdoc="3.50.3" span="">
       <word id="1" form="καθάρσιος" lemma="καθάρσιος" postag="a-s---fn-" relation="PNOM" sg="" gloss="" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" sg="" head="4" />
       <word id="3" form="εἶναι" lemma="εἰμί" postag="v--pna---" relation="OBJ" sg="" head="4" />
       <word id="4" form="νενόμισται" lemma="νομίζω" postag="v3srie---" relation="PRED" sg="" head="0" />
       <word id="5" form="·" lemma="·" postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="293" document_id="Artem.Onir.3.50.4" subdoc="" span="">
+   <sentence id="293" document_id="Artem.Onir.3.50.4" subdoc="3.50.4" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" sg="" head="4" />
       <word id="2" form="δέ" lemma="δέ" postag="g--------" relation="COORD" sg="" head="0" />
       <word id="3" form="εὖ" lemma="εὖ" postag="d--------" relation="ADV" sg="" head="4" />
@@ -1104,7 +1104,7 @@
       <word id="10" form="τετήρηται" lemma="τηρέω" postag="v3srie---" relation="PRED" sg="" head="2" />
       <word id="11" form="·" lemma="·" postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="294" document_id="Artem.Onir.3.50.5" subdoc="" span="">
+   <sentence id="294" document_id="Artem.Onir.3.50.5" subdoc="3.50.5" span="">
       <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" sg="" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" sg="" head="3" />
       <word id="3" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" sg="" head="0" />
@@ -1117,7 +1117,7 @@
       <word id="10" form="οὖσιν" lemma="εἰμί" postag="v-pppamd-" relation="ADV" sg="" head="3" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="295" document_id="Artem.Onir.3.50.6" subdoc="" span="">
+   <sentence id="295" document_id="Artem.Onir.3.50.6" subdoc="3.50.6" span="">
       <word id="1" form="Ἀσφόδελος" lemma="Ἀσφόδελος" postag="n-s---mn-" relation="SBJ" sg="" head="9" />
       <word id="2" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" sg="" head="3" />
       <word id="3" form="σκίλλῃ" lemma="σκίλλη" postag="n-s---fd-" relation="ADV" sg="" head="8" />
@@ -1139,7 +1139,7 @@
       <word id="19" form="ἐτήρησα" lemma="τηρέω" postag="v1saia---" relation="ADV" sg="" head="17" />
       <word id="20" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="9" />
    </sentence>
-   <sentence id="296" document_id="Artem.Onir.3.50.7" subdoc="">
+   <sentence id="296" document_id="Artem.Onir.3.50.7" subdoc="3.50.6">
       <word id="1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" sg="" head="3" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" sg="" head="8" />
       <word id="3" form="αἰτίαν" lemma="αἰτία" postag="n-s---fa-" relation="OBJ" sg="" head="6" />
