@@ -23,7 +23,7 @@
       <address>anise.ferreira@unesp.br</address>
       <uri>http://data.perseus.org/sosol/users/AniseD'OrangeFerreira</uri>
   </annotator>
-   <sentence id="1" document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1" subdoc="3.40.1" span="">
+   <sentence id="234" document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1" subdoc="3.40.1" span="">
       <word id="1" form="Ἐν" lemma="ἐν" postag="r--------" relation="AuxP" gloss="" sg="" head="12"/>
       <word id="2" form="ἄλλῳ" lemma="ἄλλος" postag="a--------" relation="ATR" sg="" head="3"/>
       <word id="3" form="μέρει" lemma="μέρος" postag="n--------" relation="ADV" sg="" head="1"/>
