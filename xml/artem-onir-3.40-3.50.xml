@@ -859,7 +859,7 @@
       <word id="13" form="αὐτῷ" lemma="αὐτός" postag="p-s---md-" relation="ADV" sg="" head="12"/>
       <word id="14" form="." lemma="." postag="u--------" relation="AuxK" sg="" head="0"/>
    </sentence>
-   <sentence id="46" document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1" subdoc="3.47.9>
+   <sentence id="46" document_id="urn:cts:greekLit:tlg0553.tlg001.1st1K-grc1" subdoc="3.47.9">
       <word id="1" form="εἰ" lemma="εἰ" postag="c--------" relation="AuxC" sg="" head="6"/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" sg="" head="6"/>
       <word id="3" form="παῖς" lemma="παῖς" postag="n-s---mn-" relation="PNOM" sg="" head="25"/>
