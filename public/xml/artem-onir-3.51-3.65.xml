@@ -19,7 +19,7 @@
         <address>anise.ferreira@unesp.br</address>
         <uri>http://data.perseus.org/sosol/users/AniseD'OrangeFerreira</uri>
     </annotator>
-<sentence id="297" document_id="livro3-239ss">
+<sentence id="297" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Πάσχειν" lemma="Πάσχης" postag="n-s---ma-" relation="OBJ" sg="" head="3" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" sg="" head="34" />
       <word id="3" form="δοκεῖν" lemma="δοκέω" postag="v--pna---" relation="SBJ" sg="" head="34" />
@@ -59,7 +59,7 @@
       <word id="37" form="ἐκείνῳ" lemma="ἐκεῖνος" postag="p-s---nd-" relation="OBJ" sg="" head="33" />
       <word id="38" form="·" lemma="·" postag="u--------" relation="AuxK" sg="" head="0" />
    </sentence>
-   <sentence id="298" document_id="livro3-239ss">
+   <sentence id="298" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="4" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" />
@@ -90,7 +90,7 @@
       <word id="28" form="συνεξαμαρτάνοι" lemma="συνεξαμαρτάνω" postag="v3spoa---" relation="conj" head="12" />
       <word id="29" form="." lemma="." postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="299" document_id="livro3-239ss">
+   <sentence id="299" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οἶδα" lemma="οἶδα" postag="v1sria---" relation="PRED" head="0" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="τινα" lemma="τις" postag="p-s---ma-" relation="ATR" head="4" />
@@ -114,7 +114,7 @@
       <word id="21" form="σκάζειν" lemma="σκάζω" postag="v--pna---" relation="conj" head="18" />
       <word id="22" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="300" document_id="livro3-239ss">
+   <sentence id="300" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="3" />
       <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="ADV" head="3" />
       <word id="3" form="κατέλαβεν" lemma="καταλαμβάνω" postag="v3saia---" relation="PRED" head="0" />
@@ -128,7 +128,7 @@
       <word id="11" form="ἥττητο" lemma="ἥμαι" postag="v3slie---" relation="ATR" head="7" />
       <word id="12" form="·" lemma="·" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="301" document_id="livro3-239ss">
+   <sentence id="301" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="2" />
       <word id="2" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="PRED" head="0" />
       <word id="3" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="cop" head="2" />
@@ -145,7 +145,7 @@
       <word id="14" form="οἰκέτην" lemma="οἰκέτης" postag="n-s---ma-" relation="OBJ" head="11" />
       <word id="15" form="." lemma="." postag="u--------" relation="AuxK" head="2" />
    </sentence>
-   <sentence id="302" document_id="livro3-239ss">
+   <sentence id="302" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Κόπρια" lemma="Κόπρια" postag="n-s---fn-" relation="SBJ" head="2" />
       <word id="2" form="συνάγειν" lemma="συνάγω" postag="v--pna---" relation="PRED" head="0" />
       <word id="3" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---ma-" relation="OBJ" head="2" />
@@ -161,7 +161,7 @@
       <word id="13" form="ἐργαζομένοις" lemma="ἐργάζομαι" postag="v-pppemd-" relation="conj" head="7" />
       <word id="14" form="·" lemma="·" postag="u--------" relation="AuxK" head="2" />
    </sentence>
-   <sentence id="303" document_id="livro3-239ss">
+   <sentence id="303" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐκ" lemma="ἐκ" postag="r--------" relation="AuxP" head="4" />
       <word id="2" form="πολλῶν" lemma="πολύς" postag="a-p---ng-" relation="ATR" head="4" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="7" />
@@ -175,7 +175,7 @@
       <word id="11" form="ῥίπτεται" lemma="ῥίπτω" postag="v3spie---" relation="conj" head="7" />
       <word id="12" form="·" lemma="·" postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="304" document_id="livro3-239ss">
+   <sentence id="304" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---na-" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="1" />
@@ -186,7 +186,7 @@
       <word id="8" form="μισθουμένοις" lemma="μισθόω" postag="v-pppemd-" relation="ADV" head="1" />
       <word id="9" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="305" document_id="livro3-239ss">
+   <sentence id="305" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---na-" relation="OBJ" head="6" />
       <word id="2" form="δέ" lemma="δέ" postag="g--------" relation="COORD" head="6" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="5" />
@@ -197,7 +197,7 @@
       <word id="8" form="πένητι" lemma="πένης" postag="n-s---md-" relation="ADV" head="6" />
       <word id="9" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="306" document_id="livro3-239ss">
+   <sentence id="306" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πολλὰ" lemma="πολύς" postag="a-p---nn-" relation="SBJ" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" />
       <word id="3" form="κτήσεται" lemma="κτάομαι" postag="v3sfim---" relation="PRED" head="0" />
@@ -206,7 +206,7 @@
       <word id="6" form="χρήματα" lemma="χρῆμα" postag="n-p---na-" relation="OBJ" head="5" />
       <word id="7" form="." lemma="." postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="307" document_id="livro3-239ss">
+   <sentence id="307" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πλουσίῳ" lemma="πλούσιος" postag="a-s---nd-" relation="ADV" head="7" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="7" />
       <word id="3" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="4" />
@@ -239,7 +239,7 @@
       <word id="30" form="διδόασι" lemma="δίδωμι" postag="v3ppia---" relation="conj" head="27" />
       <word id="31" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="308" document_id="livro3-239ss">
+   <sentence id="308" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="προσχεῖσθαι" lemma="πρόσχειμαι" postag="v--pne---" relation="OBJ" head="18" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="18" />
       <word id="3" form="κόπρια" lemma="κόπρια" postag="n-p---na-" relation="OBJ" head="1" />
@@ -260,7 +260,7 @@
       <word id="18" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" head="0" />
       <word id="19" form="·" lemma="·" postag="u--------" relation="AuxK" head="18" />
    </sentence>
-   <sentence id="309" document_id="livro3-239ss">
+   <sentence id="309" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="αὐτὸν" lemma="αὐτός" postag="a-s---ma-" relation="ATR" head="4" />
       <word id="2" form="δὲ" lemma="δέ" postag="g--------" relation="ADV" head="8" />
       <word id="3" form="ἄλλῳ" lemma="ἄλλος" postag="a-s---md-" relation="OBJ" head="5" />
@@ -271,7 +271,7 @@
       <word id="8" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="PRED" head="0" />
       <word id="9" form="." lemma="." postag="u--------" relation="AuxK" head="8" />
    </sentence>
-   <sentence id="310" document_id="livro3-239ss">
+   <sentence id="310" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Προσευχὴ" lemma="Προσευχή" postag="n-s---fn-" relation="SBJ" head="23" />
       <word id="2" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="μεταῖται" lemma="μέτια" postag="n-p---fn-" relation="conj" head="1" />
@@ -297,7 +297,7 @@
       <word id="23" form="προαγορεύουσι" lemma="προαγορεύω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="24" form="·" lemma="·" postag="u--------" relation="AuxK" head="23" />
    </sentence>
-   <sentence id="311" document_id="livro3-239ss">
+   <sentence id="311" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῦτο" lemma="οὗτος" postag="p-s---na-" relation="OBJ" head="5" />
       <word id="2" form="μέν" lemma="μέν" postag="d--------" relation="ADV" head="5" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" />
@@ -329,7 +329,7 @@
       <word id="29" form="προαιρέσει" lemma="προαιρέσης" postag="n-s---fd-" relation="ADV" head="27" />
       <word id="30" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="312" document_id="livro3-239ss">
+   <sentence id="312" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="cop" head="8" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="8" />
       <word id="3" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="8" />
@@ -340,7 +340,7 @@
       <word id="8" form="ἄπταιστον" lemma="ἄπταιστος" postag="a-s---nn-" relation="PRED" head="0" />
       <word id="9" form="·" lemma="·" postag="u--------" relation="AuxK" head="8" />
    </sentence>
-   <sentence id="313" document_id="livro3-239ss">
+   <sentence id="313" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3" />
       <word id="2" form="ἀγνοούμενοι" lemma="ἀγνοέω" postag="v-pppemn-" relation="ATR" head="4" />
       <word id="3" form="ἄνθρωποι" lemma="ἄνθρωπος" postag="n-p---mn-" relation="SBJ" head="2" />
@@ -370,7 +370,7 @@
       <word id="27" form="σημαίνουσι" lemma="σημαίνω" postag="v3ppia---" relation="conj" head="2" />
       <word id="28" form="." lemma="." postag="u--------" relation="AuxK" head="2" />
    </sentence>
-   <sentence id="314" document_id="livro3-239ss">
+   <sentence id="314" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="λαβόντες" lemma="λαμβάνω" postag="v-papamn-" relation="ADV" head="9" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
       <word id="3" form="τι" lemma="τις" postag="p-s---na-" relation="ADV" head="1" />
@@ -407,7 +407,7 @@
       <word id="34" form="ἀποδιδόασι" lemma="ἀποδίδωμι" postag="v3ppia---" relation="ADV" head="22" />
       <word id="35" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="315" document_id="livro3-239ss">
+   <sentence id="315" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="μεταῖται" lemma="μέτια" postag="n-p---fn-" relation="SBJ" head="10" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="10" />
       <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4" />
@@ -437,7 +437,7 @@
       <word id="27" form="σημαίνουσι" lemma="σημαίνω" postag="v3ppia---" relation="conj" head="10" />
       <word id="28" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="316" document_id="livro3-239ss">
+   <sentence id="316" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="3" />
       <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="ADV" head="8" />
       <word id="3" form="αὐτὸ" lemma="αὐτός" postag="p-s---na-" relation="OBJ" head="8" />
@@ -448,7 +448,7 @@
       <word id="8" form="σημαίνουσι" lemma="σημαίνω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="9" form="." lemma="." postag="u--------" relation="AuxK" head="8" />
    </sentence>
-   <sentence id="317" document_id="livro3-239ss">
+   <sentence id="317" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Κλεὶς" lemma="Κλεύς" postag="n-s---fn-" relation="SBJ" head="13" />
       <word id="2" form="ὄναρ" lemma="ὄναρ" postag="n-s---fn-" relation="SBJ" head="13" />
       <word id="3" form="ὁρωμένη" lemma="ὁράω" postag="v-sppefn-" relation="ADV" head="13" />
@@ -474,7 +474,7 @@
       <word id="23" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="conj" head="13" />
       <word id="24" form="." lemma="." postag="u--------" relation="AuxK" head="13" />
    </sentence>
-   <sentence id="318" document_id="livro3-239ss">
+   <sentence id="318" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀποδημεῖν" lemma="ἀποδαίνω" postag="v--ana---" relation="OBJ" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="3" />
       <word id="3" form="κωλύει" lemma="κωλύω" postag="v3spia---" relation="PRED" head="0" />
@@ -485,7 +485,7 @@
       <word id="8" form="σημαντική" lemma="σημαντικός" postag="a-s---fn-" relation="OBJ" head="3" />
       <word id="9" form="·" lemma="·" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="319" document_id="livro3-239ss">
+   <sentence id="319" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="12" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" />
       <word id="3" form="ἐπὶ" lemma="ἐπί" postag="r--------" relation="AuxP" head="5" />
@@ -511,7 +511,7 @@
       <word id="23" form="θυρῶν" lemma="θύρα" postag="n-p---mg-" relation="ADV" head="20" />
       <word id="24" form="." lemma="." postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="320" document_id="livro3-239ss">
+   <sentence id="320" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="νυνὶ" lemma="νῦνα" postag="d--------" relation="ADV" head="5" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="14" />
       <word id="3" form="ἐπειδὰν" lemma="ἐπειδάν" postag="c--------" relation="AuxC" head="5" />
@@ -532,7 +532,7 @@
       <word id="18" form="θυρῶν" lemma="θύρα" postag="n-p---ng-" relation="SBJ" head="16" />
       <word id="19" form="." lemma="." postag="u--------" relation="AuxK" head="14" />
    </sentence>
-   <sentence id="321" document_id="livro3-239ss">
+   <sentence id="321" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="εἰκότως" lemma="εἰκότως" postag="d--------" relation="ADV" head="4" />
       <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="4" />
       <word id="3" form="ἐμποδὼν" lemma="ἐμποδών" postag="d--------" relation="ADV" head="4" />
@@ -542,7 +542,7 @@
       <word id="7" form="βουλομένοις" lemma="βούλομαι" postag="v-pppemd-" relation="OBJ" head="6" />
       <word id="8" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="322" document_id="livro3-239ss">
+   <sentence id="322" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3" />
       <word id="2" form="δʼ" lemma="δέ" postag="d--------" relation="ADV" head="4" />
       <word id="3" form="ἐπιστατεύειν" lemma="ἐπιστατεύω" postag="v--pna---" relation="OBJ" head="4" />
@@ -556,7 +556,7 @@
       <word id="11" form="σημαντική" lemma="σημαντικός" postag="a-s---fn-" relation="OBJ" head="4" />
       <word id="12" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="323" document_id="livro3-239ss">
+   <sentence id="323" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ψηφοπαικτεῖν" lemma="Ψηφοπαικτέω" postag="v--pna---" relation="OBJ" head="7" />
       <word id="2" form="δοκεῖν" lemma="δοκέω" postag="v--pna---" relation="OBJ" head="7" />
       <word id="3" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="4" />
@@ -588,7 +588,7 @@
       <word id="29" form="πανούργως" lemma="πάνουργος" postag="d--------" relation="conj" head="25" />
       <word id="30" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="324" document_id="livro3-239ss">
+   <sentence id="324" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἰδεῖν" lemma="εἶδον" postag="v--ana---" relation="OBJ" head="10" />
       <word id="2" form="δέ" lemma="δέ" postag="g--------" relation="ADV" head="10" />
       <word id="3" form="ψηφοπαικτοῦντά" lemma="ψηφοπαικτέω" postag="v-sppama-" relation="OBJ" head="1" />
@@ -601,7 +601,7 @@
       <word id="10" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" head="0" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="325" document_id="livro3-239ss">
+   <sentence id="325" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Μάγειρος" lemma="Μάγειρος" postag="n-s---mn-" relation="SBJ" head="8" />
       <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="1" />
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="8" />
@@ -615,7 +615,7 @@
       <word id="11" form="προῃρημένοις" lemma="προερέω" postag="v-prpemd-" relation="OBJ" head="10" />
       <word id="12" form="·" lemma="·" postag="u--------" relation="AuxK" head="8" />
    </sentence>
-   <sentence id="326" document_id="livro3-239ss">
+   <sentence id="326" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="δεῖ" lemma="δεῖ" postag="v3siia---" relation="PRED" head="0" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="4" />
@@ -623,13 +623,13 @@
       <word id="5" form="μαγείρου" lemma="μάγειρος" postag="a-s---mg-" relation="ATR" head="4" />
       <word id="6" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="327" document_id="livro3-239ss">
+   <sentence id="327" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="3" />
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3" />
       <word id="3" form="πένησιν" lemma="πένης" postag="n-s---fa-" relation="PRED" head="0" />
       <word id="4" form="·" lemma="·" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="328" document_id="livro3-239ss">
+   <sentence id="328" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" />
       <word id="3" form="ἐκτενεῖς" lemma="ἐκτενεύς" postag="n-p---mn-" relation="SBJ" head="9" />
@@ -641,7 +641,7 @@
       <word id="9" form="χρῶνται" lemma="χράω" postag="v3ppie---" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="329" document_id="livro3-239ss">
+   <sentence id="329" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="5" />
       <word id="3" form="νοσοῦσι" lemma="νοσέω" postag="v-pppamd-" relation="OBJ" head="5" />
@@ -681,7 +681,7 @@
       <word id="37" form="καπνόν" lemma="καπνός" postag="n-s---ma-" relation="ATR" head="30" />
       <word id="38" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="330" document_id="livro3-239ss">
+   <sentence id="330" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="4" />
       <word id="2" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="3" />
       <word id="3" form="κρυπτὰ" lemma="κρυπτός" postag="a-p---nn-" relation="SBJ" head="4" />
@@ -711,7 +711,7 @@
       <word id="27" form="ἐστιν" lemma="εἰμί" postag="v3spia---" relation="cop" head="26" />
       <word id="28" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="331" document_id="livro3-239ss">
+   <sentence id="331" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="5" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="14" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="4" />
@@ -730,7 +730,7 @@
       <word id="16" form="βλάβης" lemma="βλάβη" postag="n-s---fg-" relation="conj" head="14" />
       <word id="17" form="." lemma="." postag="u--------" relation="AuxK" head="14" />
    </sentence>
-   <sentence id="332" document_id="livro3-239ss">
+   <sentence id="332" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="5" />
       <word id="2" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="3" />
       <word id="3" form="νοσοῦντας" lemma="νοσέω" postag="v-pppama-" relation="OBJ" head="5" />
@@ -753,7 +753,7 @@
       <word id="20" form="κατακόπτουσι" lemma="κατακόπτω" postag="v3ppia---" relation="conj" head="18" />
       <word id="21" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="333" document_id="livro3-239ss">
+   <sentence id="333" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πλουσίοις" lemma="πλούσιος" postag="a-p---md-" relation="ADV" head="9" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="4" />
@@ -782,7 +782,7 @@
       <word id="26" form="κρέα" lemma="κρέας" postag="n-p---na-" relation="OBJ" head="21" />
       <word id="27" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="334" document_id="livro3-239ss">
+   <sentence id="334" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῦτο" lemma="οὗτος" postag="p-s---nn-" relation="SBJ" head="6" />
       <word id="2" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="6" />
       <word id="3" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
@@ -793,7 +793,7 @@
       <word id="8" form="φόβον" lemma="φόβος" postag="n-s---ma-" relation="OBJ" head="6" />
       <word id="9" form="." lemma="." postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="335" document_id="livro3-239ss">
+   <sentence id="335" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="δάνεια" lemma="δαίνυμι" postag="v3spoa---" relation="PRED" head="0" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="4" />
@@ -806,7 +806,7 @@
       <word id="10" form="διακόπτειν" lemma="διακόπτω" postag="v--pna---" relation="conj" head="8" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="336" document_id="livro3-239ss">
+   <sentence id="336" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Πανδοκεὺς" lemma="Πανδοκεύς" postag="n-s---mn-" relation="SBJ" head="6" />
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="6" />
@@ -815,7 +815,7 @@
       <word id="6" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" head="0" />
       <word id="7" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="337" document_id="livro3-239ss">
+   <sentence id="337" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἔοικε" lemma="ἔοικα" postag="v3sria---" relation="PRED" head="0" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="1" />
       <word id="3" form="θανάτῳ" lemma="θάνατος" postag="n-s---md-" relation="OBJ" head="7" />
@@ -825,7 +825,7 @@
       <word id="7" form="δέχεσθαι" lemma="δέχομαι" postag="v--pne---" relation="OBJ" head="1" />
       <word id="8" form="·" lemma="·" postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="338" document_id="livro3-239ss">
+   <sentence id="338" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="5" />
       <word id="3" form="λοιποῖς" lemma="λοιπός" postag="a-p---md-" relation="OBJ" head="5" />
@@ -840,14 +840,14 @@
       <word id="12" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="conj" head="5" />
       <word id="13" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="339" document_id="livro3-239ss">
+   <sentence id="339" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="3" />
       <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3" />
       <word id="3" form="λόγος" lemma="λόγος" postag="n-s---mn-" relation="SBJ" head="4" />
       <word id="4" form="φανερός" lemma="φανερός" postag="a-s---mn-" relation="PRED" head="0" />
       <word id="5" form="·" lemma="·" postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="340" document_id="livro3-239ss">
+   <sentence id="340" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τί" lemma="τίς" postag="p-s---na-" relation="OBJ" head="7" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" />
       <word id="3" form="δεῖ" lemma="δεῖ" postag="v3spia---" relation="PRED" head="0" />
@@ -857,7 +857,7 @@
       <word id="7" form="ἑρμηνεύειν" lemma="ἑρμηνεύω" postag="v--pna---" relation="csubj" head="3" />
       <word id="8" form=";" lemma=";" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="341" document_id="livro3-239ss">
+   <sentence id="341" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τὰ" lemma="ὁ" postag="l-p---nn-" relation="ATR" head="3" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
       <word id="3" form="αὐτὰ" lemma="αὐτός" postag="p-p---nn-" relation="SBJ" head="9" />
@@ -869,7 +869,7 @@
       <word id="9" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="342" document_id="livro3-239ss">
+   <sentence id="342" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Τελώνης" lemma="Τελώνη" postag="n-s---fg-" relation="ATR" head="2" />
       <word id="2" form="ἀγαθὸς" lemma="ἀγαθός" postag="a-s---mn-" relation="OBJ" head="5" />
       <word id="3" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="1" />
@@ -881,7 +881,7 @@
       <word id="9" form="τελειῶσαι" lemma="τελειόω" postag="v--pna---" relation="conj" head="7" />
       <word id="10" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="343" document_id="livro3-239ss">
+   <sentence id="343" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="4" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" />
       <word id="3" form="τοῦ" lemma="ὁ" postag="l-s---ng-" relation="ATR" head="4" />
@@ -893,7 +893,7 @@
       <word id="9" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="344" document_id="livro3-239ss">
+   <sentence id="344" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="5" />
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---nd-" relation="ATR" head="3" />
       <word id="3" form="κινεῖσθαι" lemma="κίνω" postag="v--pne---" relation="OBJ" head="5" />
@@ -920,14 +920,14 @@
       <word id="24" form="χρῆσθαι" lemma="χράομαι" postag="v--pne---" relation="conj" head="20" />
       <word id="25" form="." lemma="." postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="345" document_id="livro3-239ss">
+   <sentence id="345" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="νοσοῦσι" lemma="νοσέω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="2" form="δέ" lemma="δέ" postag="g--------" relation="COORD" head="1" />
       <word id="3" form="θάνατον" lemma="θάνατος" postag="n-s---ma-" relation="OBJ" head="4" />
       <word id="4" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="OBJ" head="1" />
       <word id="5" form="·" lemma="·" postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="346" document_id="livro3-239ss">
+   <sentence id="346" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="῾" lemma="῾" postag="u--------" relation="AuxG" head="2" />
       <word id="2" form="τελευτὴνʼ" lemma="τελευτή" postag="n-s---fa-" relation="OBJ" head="7" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="7" />
@@ -937,7 +937,7 @@
       <word id="7" form="καλοῦμεν" lemma="καλέω" postag="v1ppia---" relation="PRED" head="0" />
       <word id="8" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="347" document_id="livro3-239ss">
+   <sentence id="347" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="2" />
       <word id="2" form="γάμους" lemma="γάμος" postag="n-p---ma-" relation="ADV" head="9" />
       <word id="3" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
@@ -967,7 +967,7 @@
       <word id="27" form="ἀμφισβητήσεις" lemma="ἀμφισβήτησις" postag="n-p---fa-" relation="ADV" head="22" />
       <word id="28" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="348" document_id="livro3-239ss">
+   <sentence id="348" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τὸ" lemma="ὁ" postag="l-s---nn-" relation="ATR" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
       <word id="3" form="εὔνουν" lemma="εὔνους" postag="a-s---nn-" relation="SBJ" head="9" />
@@ -981,7 +981,7 @@
       <word id="11" form="τεκμήρασθαι" lemma="τεκμαίρομαι" postag="v--anm---" relation="csubj" head="6" />
       <word id="12" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="349" document_id="livro3-239ss">
+   <sentence id="349" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Λευκέα" lemma="Λευκῆς" postag="n-s---ma-" relation="SBJ" head="6" />
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="6" />
@@ -990,7 +990,7 @@
       <word id="6" form="πονηρά" lemma="πονηρός" postag="a-p---nn-" relation="PRED" head="0" />
       <word id="7" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="350" document_id="livro3-239ss">
+   <sentence id="350" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="στερρότερον" lemma="στερρός" postag="a-s---mac" relation="ATR" head="7" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="4" />
@@ -1021,7 +1021,7 @@
       <word id="28" form="ἐργασίαν" lemma="ἐργασία" postag="n-s---fa-" relation="OBJ" head="21" />
       <word id="29" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="351" document_id="livro3-239ss">
+   <sentence id="351" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" />
       <word id="3" form="κόπτεται" lemma="κόπτω" postag="v3spie---" relation="PRED" head="0" />
@@ -1029,7 +1029,7 @@
       <word id="5" form="καταπλέκεται" lemma="καταπλέκω" postag="v3spie---" relation="conj" head="3" />
       <word id="6" form="·" lemma="·" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="352" document_id="livro3-239ss">
+   <sentence id="352" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="6" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="4" />
@@ -1051,7 +1051,7 @@
       <word id="19" form="ὦσι" lemma="εἰμί" postag="v3ppsa---" relation="cop" head="18" />
       <word id="20" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="353" document_id="livro3-239ss">
+   <sentence id="353" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="5" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" />
       <word id="3" form="αὐτὴ" lemma="αὐτός" postag="a-s---fn-" relation="SBJ" head="5" />
@@ -1059,7 +1059,7 @@
       <word id="5" form="κομίζεται" lemma="κομίζω" postag="v3spie---" relation="PRED" head="0" />
       <word id="6" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="354" document_id="livro3-239ss">
+   <sentence id="354" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="λίνον" lemma="Λίνος" postag="n-s---ma-" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="4" />
@@ -1097,7 +1097,7 @@
       <word id="35" form="θηρῶσι" lemma="θηράω" postag="v3ppia---" relation="ATR" head="26" />
       <word id="36" form="." lemma="." postag="u--------" relation="AuxK" head="20" />
    </sentence>
-   <sentence id="355" document_id="livro3-239ss">
+   <sentence id="355" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="4" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="10" />
       <word id="3" form="τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="4" />
@@ -1115,7 +1115,7 @@
       <word id="15" form="δυνάμει" lemma="δύναμις" postag="n-s---fd-" relation="ADV" head="12" />
       <word id="16" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="356" document_id="livro3-239ss">
+   <sentence id="356" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="κάνναβις" lemma="κάνναβις" postag="n-s---fn-" relation="SBJ" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="3" />
       <word id="3" form="ὑπερεπιτείνει" lemma="ὑπερεπιτείνω" postag="v3spia---" relation="PRED" head="0" />
@@ -1150,7 +1150,7 @@
       <word id="32" form="τριβήν" lemma="τριβή" postag="n-s---fa-" relation="ADV" head="29" />
       <word id="33" form="." lemma="." postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="357" document_id="livro3-239ss">
+   <sentence id="357" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="εἰδέναι" lemma="οἶδα" postag="v--rna---" relation="csubj" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="3" />
       <word id="3" form="χρὴ" lemma="χρή" postag="v3spia---" relation="PRED" head="0" />
@@ -1175,7 +1175,7 @@
       <word id="22" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="OBJ" head="3" />
       <word id="23" form="." lemma="." postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="358" document_id="livro3-239ss">
+   <sentence id="358" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Φυλάττεσθαι" lemma="Φυλάσσω" postag="v--pne---" relation="PRED" head="0" />
       <word id="2" form="ὑπό" lemma="ὑπό" postag="r--------" relation="AuxP" head="3" />
       <word id="3" form="τινος" lemma="τις" postag="p-s---mg-" relation="ADV" head="1" />
@@ -1205,7 +1205,7 @@
       <word id="27" form="σωτηρίαν" lemma="σωτηρία" postag="n-s---fa-" relation="OBJ" head="26" />
       <word id="28" form="·" lemma="·" postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="359" document_id="livro3-239ss">
+   <sentence id="359" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="φυλακὴν" lemma="φυλακή" postag="n-s---fa-" relation="OBJ" head="12" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" />
@@ -1233,7 +1233,7 @@
       <word id="25" form="θάνατον" lemma="θάνατος" postag="n-s---ma-" relation="SBJ" head="22" />
       <word id="26" form="." lemma="." postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="360" document_id="livro3-239ss">
+   <sentence id="360" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="19" />
       <word id="3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4" />
@@ -1255,7 +1255,7 @@
       <word id="19" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="PRED" head="0" />
       <word id="20" form="." lemma="." postag="u--------" relation="AuxK" head="19" />
    </sentence>
-   <sentence id="361" document_id="livro3-239ss">
+   <sentence id="361" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="δήμιοι" lemma="δῆμιον" postag="n-p---mn-" relation="SBJ" head="9" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="9" />
       <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1" />
@@ -1267,7 +1267,7 @@
       <word id="9" form="σημαντικοί" lemma="σημαντικός" postag="a-p---mn-" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="362" document_id="livro3-239ss">
+   <sentence id="362" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="κακούργους" lemma="κακόοργος" postag="a-p---ma-" relation="OBJ" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="3" />
       <word id="3" form="δεσμεύουσι" lemma="δεσμεύω" postag="v3ppia---" relation="PRED" head="0" />
@@ -1277,7 +1277,7 @@
       <word id="7" form="ἐλέγχουσι" lemma="ἐλέγχω" postag="v3ppia---" relation="conj" head="3" />
       <word id="8" form="·" lemma="·" postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="363" document_id="livro3-239ss">
+   <sentence id="363" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="5" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" />
       <word id="3" form="ἐληλεγμέ" lemma="ἐληλεγμός" postag="a-p---md-" relation="ATR" head="5" />
@@ -1289,7 +1289,7 @@
       <word id="9" form="προσίασι" lemma="πρόσειμι" postag="v3ppia---" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="364" document_id="livro3-239ss">
+   <sentence id="364" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Παννυχίδες" lemma="Παννυχίς" postag="n-p---fn-" relation="SBJ" head="15" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="15" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="1" />
@@ -1327,7 +1327,7 @@
       <word id="35" form="τετήρηνται" lemma="τηρέω" postag="v3prie---" relation="ADV" head="23" />
       <word id="36" form="·" lemma="·" postag="u--------" relation="AuxK" head="15" />
    </sentence>
-   <sentence id="365" document_id="livro3-239ss">
+   <sentence id="365" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="3" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3" />
       <word id="3" form="ἔνεστι" lemma="ἔνειμι" postag="v3spia---" relation="PRED" head="0" />
@@ -1340,7 +1340,7 @@
       <word id="10" form="ὄντας" lemma="εἰμί" postag="v-pppama-" relation="cop" head="9" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="3" />
    </sentence>
-   <sentence id="366" document_id="livro3-239ss">
+   <sentence id="366" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="μοιχοὺς" lemma="μοιχός" postag="n-p---ma-" relation="OBJ" head="7" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="7" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="4" />
@@ -1375,7 +1375,7 @@
       <word id="32" form="συγχωρεῖται" lemma="συγχωρέω" postag="v3spie---" relation="conj" head="26" />
       <word id="33" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="367" document_id="livro3-239ss">
+   <sentence id="367" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="5" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="15" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="5" />
@@ -1400,7 +1400,7 @@
       <word id="22" form="γένοιτο" lemma="γίγνομαι" postag="v3saom---" relation="ATR" head="14" />
       <word id="23" form="." lemma="." postag="u--------" relation="AuxK" head="15" />
    </sentence>
-   <sentence id="368" document_id="livro3-239ss">
+   <sentence id="368" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ἀγορὰ" lemma="Ἀγορά" postag="n-s---fn-" relation="SBJ" head="4" />
       <word id="2" form="ταραχῆς" lemma="ταραχή" postag="n-s---fg-" relation="ADV" head="4" />
       <word id="3" form="ἐστι" lemma="εἰμί" postag="v3spia---" relation="cop" head="4" />
@@ -1415,7 +1415,7 @@
       <word id="12" form="ὄχλον" lemma="ὄχλος" postag="n-s---ma-" relation="ADV" head="4" />
       <word id="13" form="." lemma="." postag="u--------" relation="AuxK" head="4" />
    </sentence>
-   <sentence id="369" document_id="livro3-239ss">
+   <sentence id="369" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="5" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="4" />
@@ -1432,7 +1432,7 @@
       <word id="14" form="ὁρωμένη" lemma="ὁράω" postag="v-sppefn-" relation="conj" head="10" />
       <word id="15" form="·" lemma="·" postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="370" document_id="livro3-239ss">
+   <sentence id="370" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="3" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="5" />
       <word id="3" form="ἔρημος" lemma="ἔρημος" postag="a-s---fn-" relation="SBJ" head="5" />
@@ -1450,7 +1450,7 @@
       <word id="15" form="προαγορεύει" lemma="προαγορεύω" postag="v3spia---" relation="conj" head="5" />
       <word id="16" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="371" document_id="livro3-239ss">
+   <sentence id="371" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀγορὰ" lemma="ἀγορά" postag="n-s---fn-" relation="SBJ" head="6" />
       <word id="2" form="ἐσπαρμένη" lemma="σπείρω" postag="v-srpefn-" relation="ADV" head="6" />
       <word id="3" form="παντὶ" lemma="πᾶς" postag="a-s---nd-" relation="OBJ" head="2" />
@@ -1468,7 +1468,7 @@
       <word id="15" form="ἐσπαρμένον" lemma="εἰσπάρομαι" postag="v-srpenn-" relation="ADV" head="6" />
       <word id="16" form="." lemma="." postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="372" document_id="livro3-239ss">
+   <sentence id="372" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="λέγουσι" lemma="λέγω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="ἔνιοι" lemma="ἔνιοι" postag="a-p---mn-" relation="SBJ" head="1" />
@@ -1488,7 +1488,7 @@
       <word id="17" form="σημαίνειν" lemma="σημαίνω" postag="v--pna---" relation="OBJ" head="1" />
       <word id="18" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="373" document_id="livro3-239ss">
+   <sentence id="373" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="θέατρα" lemma="θέατρον" postag="n-p---nn-" relation="SBJ" head="20" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="20" />
       <word id="3" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="1" />
@@ -1511,7 +1511,7 @@
       <word id="20" form="ἔχει" lemma="ἔχω" postag="v3spia---" relation="PRED" head="0" />
       <word id="21" form="." lemma="." postag="u--------" relation="AuxK" head="20" />
    </sentence>
-   <sentence id="374" document_id="livro3-239ss">
+   <sentence id="374" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ἀνδριάντες" lemma="Ἀνδριάντης" postag="n-p---mn-" relation="ATR" head="2" />
       <word id="2" form="χαλκοῖ" lemma="χαλκός" postag="n-p---mn-" relation="SBJ" head="6" />
       <word id="3" form="κινούμενοι" lemma="κινόω" postag="v-pppemn-" relation="ADV" head="6" />
@@ -1550,7 +1550,7 @@
       <word id="36" form="ἐπάγουσι" lemma="ἐπάγω" postag="v3ppia---" relation="conj" head="6" />
       <word id="37" form="·" lemma="·" postag="u--------" relation="AuxK" head="6" />
    </sentence>
-   <sentence id="375" document_id="livro3-239ss">
+   <sentence id="375" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="φοβερὰ" lemma="φοβερός" postag="a-p---na-" relation="ADV" head="12" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="12" />
       <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5" />
@@ -1565,7 +1565,7 @@
       <word id="12" form="γίνεται" lemma="γίγνομαι" postag="v3spie---" relation="PRED" head="0" />
       <word id="13" form="." lemma="." postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="376" document_id="livro3-239ss">
+   <sentence id="376" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="16" />
       <word id="3" form="λίθινοι" lemma="λίθινος" postag="a-p---mn-" relation="SBJ" head="16" />
@@ -1584,7 +1584,7 @@
       <word id="16" form="κρινέσθωσαν" lemma="κρίνω" postag="v3paip---" relation="PRED" head="0" />
       <word id="17" form="." lemma="." postag="u--------" relation="AuxK" head="16" />
    </sentence>
-   <sentence id="377" document_id="livro3-239ss">
+   <sentence id="377" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἔτι" lemma="ἔτι" postag="d--------" relation="ADV" head="10" />
       <word id="2" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="10" />
       <word id="3" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="7" />
@@ -1597,7 +1597,7 @@
       <word id="10" form="σημαίνουσιν" lemma="σημαίνω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="378" document_id="livro3-239ss">
+   <sentence id="378" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ὅ" lemma="ὁ" postag="p-s---na-" relation="OBJ" head="5" />
       <word id="2" form="τι" lemma="τις" postag="p-s---na-" relation="OBJ" head="5" />
       <word id="3" form="ἂν" lemma="ἄν" postag="d--------" relation="ADV" head="5" />
@@ -1617,7 +1617,7 @@
       <word id="17" form="προσημαίνουσιν" lemma="προσημαίνω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="18" form="." lemma="." postag="u--------" relation="AuxK" head="17" />
    </sentence>
-   <sentence id="379" document_id="livro3-239ss">
+   <sentence id="379" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ἀσπάλαξ" lemma="Ἀσπάλαξ" postag="n-s---ma-" relation="OBJ" head="7" />
       <word id="2" form="ἄνθρωπον" lemma="ἄνθρωπος" postag="n-s---ma-" relation="OBJ" head="7" />
       <word id="3" form="τυφλὸν" lemma="τυφλός" postag="a-s---ma-" relation="ATR" head="2" />
@@ -1635,7 +1635,7 @@
       <word id="15" form="πόνον" lemma="πόνος" postag="n-s---ma-" relation="ADV" head="7" />
       <word id="16" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="380" document_id="livro3-239ss">
+   <sentence id="380" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="5" />
       <word id="2" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="3" />
       <word id="3" form="ἀποκρύπτεσθαι" lemma="ἀποκρύπτω" postag="v--pne---" relation="OBJ" head="5" />
@@ -1646,7 +1646,7 @@
       <word id="8" form="ἐλεγχθῆναι" lemma="ἐλέγω" postag="v--anp---" relation="OBJ" head="5" />
       <word id="9" form="·" lemma="·" postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="381" document_id="livro3-239ss">
+   <sentence id="381" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="10" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="10" />
       <word id="3" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4" />
@@ -1659,7 +1659,7 @@
       <word id="10" form="συλλαμβάνεται" lemma="συλλαμβάνω" postag="v3spie---" relation="PRED" head="0" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="382" document_id="livro3-239ss">
+   <sentence id="382" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Γλαὺξ" lemma="Γλαύς" postag="n-s---fn-" relation="SBJ" head="5" />
       <word id="2" form="ἐλεὸς" lemma="ἐλεός" postag="a-s---mn-" relation="ATR" head="1" />
       <word id="3" form="βύας" lemma="βύη" postag="n-s---mn-" relation="ATR" head="1" />
@@ -1703,7 +1703,7 @@
       <word id="41" form="ὄρνεα" lemma="ὄρνος" postag="n-p---nn-" relation="SBJ" head="38" />
       <word id="42" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="383" document_id="livro3-239ss">
+   <sentence id="383" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="μόνη" lemma="μόνος" postag="a-s---fn-" relation="OBJ" head="7" />
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="ADV" head="10" />
       <word id="3" form="νυκτερὶς" lemma="νυκτερός" postag="a-s---fd-" relation="ATR" head="4" />
@@ -1734,7 +1734,7 @@
       <word id="28" form="νεοττούς" lemma="νεοττός" postag="a-p---ma-" relation="ATR" head="26" />
       <word id="29" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="384" document_id="livro3-239ss">
+   <sentence id="384" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ὅ" lemma="ὁ" postag="p-s---na-" relation="ADV" head="9" />
       <word id="2" form="τι" lemma="τις" postag="p-s---na-" relation="ATR" head="1" />
       <word id="3" form="δʼ" lemma="δέ" postag="d--------" relation="ADV" head="17" />
@@ -1754,7 +1754,7 @@
       <word id="17" form="περιπεσεῖται" lemma="περιπίπτω" postag="v3sfim---" relation="PRED" head="0" />
       <word id="18" form="." lemma="." postag="u--------" relation="AuxK" head="17" />
    </sentence>
-   <sentence id="385" document_id="livro3-239ss">
+   <sentence id="385" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="εἰσοικιζόμενα" lemma="εἰσοικίζω" postag="v-pppenn-" relation="ADV" head="10" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="10" />
       <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="4" />
@@ -1767,7 +1767,7 @@
       <word id="10" form="μαντεύεται" lemma="μαντεύομαι" postag="v3spie---" relation="PRED" head="0" />
       <word id="11" form="." lemma="." postag="u--------" relation="AuxK" head="10" />
    </sentence>
-   <sentence id="386" document_id="livro3-239ss">
+   <sentence id="386" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ὡρολόγιον" lemma="Ὡρολογ" postag="a-s---fa-" relation="ATR" head="2" />
       <word id="2" form="πράξεις" lemma="πρᾶξις" postag="n-p---fa-" relation="OBJ" head="11" />
       <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="ADV" head="2" />
@@ -1781,7 +1781,7 @@
       <word id="11" form="σημαίνει" lemma="σημαίνω" postag="v3spia---" relation="PRED" head="0" />
       <word id="12" form="·" lemma="·" postag="u--------" relation="AuxK" head="11" />
    </sentence>
-   <sentence id="387" document_id="livro3-239ss">
+   <sentence id="387" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="πάντα" lemma="πᾶς" postag="a-p---na-" relation="OBJ" head="6" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="9" />
       <word id="3" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="5" />
@@ -1793,7 +1793,7 @@
       <word id="9" form="πράσσουσιν" lemma="πράσσω" postag="v3ppia---" relation="PRED" head="0" />
       <word id="10" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="388" document_id="livro3-239ss">
+   <sentence id="388" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ὅθεν" lemma="ὅθεν" postag="c--------" relation="ADV" head="2" />
       <word id="2" form="συμπῖπτον" lemma="συμπίπτω" postag="v1siia---" relation="PRED" head="0" />
       <word id="3" form="κατεασσόμενον" lemma="κατέω" postag="v-sppenn-" relation="OBJ" head="2" />
@@ -1809,7 +1809,7 @@
       <word id="13" form="νοσοῦσιν" lemma="νοσέω" postag="v-pppamd-" relation="conj" head="8" />
       <word id="14" form="." lemma="." postag="u--------" relation="AuxK" head="2" />
    </sentence>
-   <sentence id="389" document_id="livro3-239ss">
+   <sentence id="389" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀεὶ" lemma="ἀεί" postag="d--------" relation="ADV" head="9" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="τὰς" lemma="ὁ" postag="l-p---fa-" relation="ATR" head="9" />
@@ -1827,7 +1827,7 @@
       <word id="15" form="ἕκτην" lemma="ἕκτη" postag="n-s---fa-" relation="ATR" head="12" />
       <word id="16" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="390" document_id="livro3-239ss">
+   <sentence id="390" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="16" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="31" />
       <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="31" />
@@ -1881,7 +1881,7 @@
       <word id="51" form="δοκεῖ" lemma="δοκέω" postag="v3spia---" relation="conj" head="44" />
       <word id="52" form="." lemma="." postag="u--------" relation="AuxK" head="31" />
    </sentence>
-   <sentence id="391" document_id="livro3-239ss">
+   <sentence id="391" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="χρὴ" lemma="χρή" postag="v3spia---" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="γινώσκειν" lemma="γιγνώσκω" postag="v--pna---" relation="csubj" head="1" />
@@ -1922,7 +1922,7 @@
       <word id="38" form="ἰδεῖν" lemma="εἶδον" postag="v--ana---" relation="OBJ" head="36" />
       <word id="39" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="392" document_id="livro3-239ss">
+   <sentence id="392" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἀδύνατον" lemma="ἀδύνατος" postag="a-s---na-" relation="OBJ" head="3" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="μαχόμενα" lemma="μάχομαι" postag="v-pppena-" relation="PRED" head="0" />
@@ -1957,7 +1957,7 @@
       <word id="32" form="τινά" lemma="τις" postag="p-s---ma-" relation="ATR" head="31" />
       <word id="33" form="." lemma="." postag="u--------" relation="AuxK" head="29" />
    </sentence>
-   <sentence id="393" document_id="livro3-239ss">
+   <sentence id="393" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="d--------" relation="AuxC" head="3" />
       <word id="2" form="οὖν" lemma="οὖν" postag="g--------" relation="ADV" head="12" />
       <word id="3" form="ἴδῃ" lemma="εἶδον" postag="v3sasa---" relation="ADV" head="12" />
@@ -1982,7 +1982,7 @@
       <word id="22" form="κακά" lemma="κακός" postag="a-p---na-" relation="conj" head="19" />
       <word id="23" form="·" lemma="·" postag="u--------" relation="AuxK" head="12" />
    </sentence>
-   <sentence id="394" document_id="livro3-239ss">
+   <sentence id="394" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="ADV" head="13" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="13" />
       <word id="3" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="5" />
@@ -2007,7 +2007,7 @@
       <word id="22" form="κατέστησαν" lemma="καθίστημι" postag="v3paia---" relation="conj" head="13" />
       <word id="23" form="." lemma="." postag="u--------" relation="AuxK" head="13" />
    </sentence>
-   <sentence id="395" document_id="livro3-239ss">
+   <sentence id="395" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="cop" head="8" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="8" />
       <word id="3" form="ὅτε" lemma="ὅτε" postag="c--------" relation="AuxC" head="8" />
@@ -2035,7 +2035,7 @@
       <word id="25" form="ματαία" lemma="μάταιος" postag="a-s---fn-" relation="conj" head="22" />
       <word id="26" form="." lemma="." postag="u--------" relation="AuxK" head="15" />
    </sentence>
-   <sentence id="396" document_id="livro3-239ss">
+   <sentence id="396" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῦτον" lemma="οὗτος" postag="a-s---ma-" relation="ATR" head="4" />
       <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="15" />
       <word id="3" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="4" />
@@ -2057,7 +2057,7 @@
       <word id="19" form="δυσερμήνευτοι" lemma="δυσερμήνευτος" postag="a-p---mn-" relation="conj" head="15" />
       <word id="20" form="." lemma="." postag="u--------" relation="AuxK" head="15" />
    </sentence>
-   <sentence id="397" document_id="livro3-239ss">
+   <sentence id="397" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐγὼ" lemma="ἐγώ" postag="p-s---mn-" relation="SBJ" head="20" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="20" />
       <word id="3" form="ὡς" lemma="ὡς" postag="c--------" relation="AuxC" head="8" />
@@ -2080,7 +2080,7 @@
       <word id="20" form="ἀνέγραεψα" lemma="ἀναγράω" postag="v1saia---" relation="PRED" head="0" />
       <word id="21" form="." lemma="." postag="u--------" relation="AuxK" head="20" />
    </sentence>
-   <sentence id="398" document_id="livro3-239ss">
+   <sentence id="398" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ὥσπερ" lemma="ὥσπερ" postag="d--------" relation="AuxC" head="10" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="34" />
       <word id="3" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="4" />
@@ -2125,7 +2125,7 @@
       <word id="42" form="πᾶσιν" lemma="πᾶς" postag="a-p---md-" relation="ADV" head="39" />
       <word id="43" form="·" lemma="·" postag="u--------" relation="AuxK" head="34" />
    </sentence>
-   <sentence id="399" document_id="livro3-239ss">
+   <sentence id="399" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐπεὶ" lemma="ἐπεί" postag="c--------" relation="AuxC" head="9" />
       <word id="2" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="4" />
       <word id="3" form="γε" lemma="γε" postag="d--------" relation="ADV" head="4" />
@@ -2146,7 +2146,7 @@
       <word id="18" form="ἔχει" lemma="ἔχω" postag="v3spia---" relation="OBJ" head="16" />
       <word id="19" form="." lemma="." postag="u--------" relation="AuxK" head="9" />
    </sentence>
-   <sentence id="400" document_id="livro3-239ss">
+   <sentence id="400" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="6" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="7" />
       <word id="3" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="7" />
@@ -2186,7 +2186,7 @@
       <word id="37" form="ἐπέδειξα" lemma="ἐπιδείκνυμι" postag="v1saia---" relation="conj" head="7" />
       <word id="38" form="." lemma="." postag="u--------" relation="AuxK" head="7" />
    </sentence>
-   <sentence id="401" document_id="livro3-239ss">
+   <sentence id="401" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἐπειδὰν" lemma="ἐπειδάν" postag="d--------" relation="AuxC" head="6" />
       <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="ADV" head="18" />
       <word id="3" form="πένης" lemma="πένης" postag="a-s---mn-" relation="ATR" head="4" />
@@ -2239,7 +2239,7 @@
       <word id="50" form="θλιβόμενος" lemma="θλίβω" postag="v-sppemn-" relation="conj" head="42" />
       <word id="51" form="·" lemma="·" postag="u--------" relation="AuxK" head="18" />
    </sentence>
-   <sentence id="402" document_id="livro3-239ss">
+   <sentence id="402" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="ἔστι" lemma="εἰμί" postag="v3spia---" relation="cop" head="5" />
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" />
       <word id="3" form="ἡ" lemma="ὁ" postag="l-s---fn-" relation="ATR" head="5" />
@@ -2283,7 +2283,7 @@
       <word id="41" form="ἀνενδεές" lemma="ἀνενδής" postag="a-s---ma-" relation="conj" head="33" />
       <word id="42" form="." lemma="." postag="u--------" relation="AuxK" head="5" />
    </sentence>
-   <sentence id="403" document_id="livro3-239ss">
+   <sentence id="403" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τοῦτον" lemma="οὗτος" postag="a-s---ma-" relation="ATR" head="4" />
       <word id="2" form="δὴ" lemma="δή" postag="d--------" relation="ADV" head="11" />
       <word id="3" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="4" />
@@ -2309,7 +2309,7 @@
       <word id="23" form="ἕν" lemma="εἷς" postag="a-s---na-" relation="ATR" head="22" />
       <word id="24" form="." lemma="." postag="u--------" relation="AuxK" head="11" />
    </sentence>
-   <sentence id="404" document_id="livro3-239ss">
+   <sentence id="404" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="χρὴ" lemma="χρή" postag="v3spia---" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="ἀποφαίνεσθαι" lemma="ἀποφαίνω" postag="v--pne---" relation="csubj" head="1" />
@@ -2344,7 +2344,7 @@
       <word id="32" form="ποιοῦνται" lemma="ποιέω" postag="v3ppie---" relation="conj" head="14" />
       <word id="33" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="405" document_id="livro3-239ss">
+   <sentence id="405" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="γένοιτο" lemma="γίγνομαι" postag="v3saom---" relation="PRED" head="0" />
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="ADV" head="1" />
       <word id="3" form="μετὰ" lemma="μετά" postag="r--------" relation="AuxP" head="5" />
@@ -2386,7 +2386,7 @@
       <word id="39" form="ἔχω" lemma="ἔχω" postag="v1spia---" relation="conj" head="29" />
       <word id="40" form="." lemma="." postag="u--------" relation="AuxK" head="1" />
    </sentence>
-   <sentence id="406" document_id="livro3-239ss">
+   <sentence id="406" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="Τὰ" lemma="ὁ" postag="l-p---na-" relation="ATR" head="4" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="12" />
       <word id="3" form="δὴ" lemma="δή" postag="d--------" relation="ADV" head="12" />
@@ -2430,7 +2430,7 @@
       <word id="41" form="·" lemma="·" postag="u--------" relation="AuxK" head="42" />
       <word id="42" form="[]" lemma="ἵημι" postag="v3spia---" relation="conj" head="12" />
    </sentence>
-   <sentence id="407" document_id="livro3-239ss">
+   <sentence id="407" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="4" />
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="5" />
       <word id="3" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="5" />
@@ -2472,7 +2472,7 @@
       <word id="39" form="." lemma="." postag="u--------" relation="AuxK" head="38" />
       <word id="40" form="[]" lemma="ἵημι" postag="v3spia---" relation="conj" head="5" />
    </sentence>
-   <sentence id="408" document_id="livro3-239ss">
+   <sentence id="408" document_id="Artem.Onir." subdoc="3.51-3.65" span="">
       <word id="1" form="διὸ" lemma="διό" postag="d--------" relation="ADV" head="9" />
       <word id="2" form="θρεπτήρια" lemma="θρεπτήριος" postag="a-p---na-" relation="ADV" head="9" />
       <word id="3" form="οὔσῃ" lemma="εἰμί" postag="v-sppafd-" relation="cop" head="2" />
