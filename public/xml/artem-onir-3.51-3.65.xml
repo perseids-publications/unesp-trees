@@ -145,7 +145,7 @@
       <word id="14" form="οἰκέτην" lemma="οἰκέτης" postag="n-s---ma-" relation="OBJ" head="11" />
       <word id="15" form="." lemma="." postag="u--------" relation="AuxK" head="2" />
    </sentence>
-   <sentence id="302" document_id="Artem.Onir." subdoc="3.51.2" span="">
+   <sentence id="302" document_id="Artem.Onir." subdoc="3.52.1" span="">
       <word id="1" form="Κόπρια" lemma="Κόπρια" postag="n-s---fn-" relation="SBJ" head="2" />
       <word id="2" form="συνάγειν" lemma="συνάγω" postag="v--pna---" relation="PRED" head="0" />
       <word id="3" form="ἀγαθὸν" lemma="ἀγαθός" postag="a-s---ma-" relation="OBJ" head="2" />
