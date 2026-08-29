@@ -83,6 +83,23 @@
           ]
         },
 
+{
+          "path": "Anise Ferreira",
+          "author": "Artemidoro de Daldis",
+          "work": "Oneirocritica-Livro III",
+          "editors": "Anise Ferreira",
+          "sections": [
+            { 
+              "locus": "3.51-3.65",
+              "path": "artem-onir-3.41-3.65",
+              "xml": "artem-onir-3.41-3.55.xml",
+              "link": "",
+              "notes": "",
+			  "chunks": { "start": 297, "end": 389 }
+       }
+          ]
+        },
+	  
 	  
         {
           "path": "Anise Ferreira",
@@ -91,12 +108,12 @@
           "editors": "Anise Ferreira",
           "sections": [
             { 
-              "locus": "3.51-3.65",
-              "path": "artem-onir-3.51-3.65",
-              "xml": "artem-onir-3.51-3.65.xml",
+              "locus": "3.epil",
+              "path": "artem-onir-3.epil",
+              "xml": "artem-onir-3.epil.xml",
               "link": "",
               "notes": "", 
-			  "chunks": { "start": 297, "end": 389 }
+			  "chunks": { "start": 390, "end": 408 }
         }
       ]
     }
